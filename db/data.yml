@@ -1,0 +1,3577 @@
+
+--- 
+clients: 
+  columns: 
+  - id
+  - name
+  - nombre_fantasia
+  - cuit
+  - direccion
+  - localidad
+  - provincia
+  - cp
+  - condicion_venta
+  - condicion_iva
+  - descuento10
+  - descuento20
+  - remito_direccion
+  - remito_localidad
+  - remito_provincia
+  - remito_cp
+  - email
+  - tel_fax
+  - observaciones
+  - created_at
+  - updated_at
+  records: 
+  - - "1"
+    - ROBERTO DARDES
+    - ""
+    - 20-07642663-6
+    - BARTOLOME MITRE 441
+    - CAPITAL
+    - ""
+    - ""
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "2"
+    - EMPORIO GASTRONOMICO ARG. S.A.
+    - ""
+    - 30-54682021-8
+    - PAVON 2562/69
+    - CAPITAL
+    - ""
+    - "1248"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "3"
+    - JENCK S.A.
+    - ""
+    - 30-63288438-5
+    - AV. ALVAREZ THOMAS 228
+    - CAPITAL
+    - ""
+    - "1426"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "4"
+    - BONAFIDE S.A.I.C.
+    - ""
+    - 30-50121458-9
+    - RUTA 8 KM 17800
+    - SAN MARTIN
+    - ""
+    - "1650"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "5"
+    - LAVIERI HNOS.
+    - ""
+    - 30-62329594-3
+    - VIAMONTE 354
+    - CAPITAL
+    - ""
+    - "1007"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "6"
+    - TOSTADERO PARANA S.A.
+    - ""
+    - 30-69079966-5
+    - VERTI 4590
+    - VILLA INSUPERABLE   BS.AS
+    - ""
+    - "1752"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "7"
+    - PUNTO ESPRESSO S.A.
+    - ""
+    - 30-67609147-1
+    - TROLE 282
+    - CAPITAL
+    - ""
+    - "1437"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "8"
+    - BUONCAFF S.R.L
+    - ""
+    - 30-59433624-7
+    - "NICASIO ORO\xC3\x91O"
+    - CAPITAL
+    - ""
+    - "1416"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-21 00:28:08
+  - - "9"
+    - LA BOLSA DE CAFE S.A.
+    - ""
+    - 30-500068326-7
+    - RIVADAVIA 6050
+    - CAPITAL
+    - ""
+    - "1406"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "10"
+    - J.LLORENTE YCIA S.A.
+    - ""
+    - 30-52980806-9
+    - CATAMARCA 70
+    - CAPITAL
+    - ""
+    - "1213"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "11"
+    - CAFE GUATEMALA
+    - ""
+    - 30-56266366-1
+    - E. ZEBALLOS 2810
+    - ROSARIO SUD
+    - ""
+    - "2000"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "12"
+    - MARIA TERESA BAUTISTA
+    - ""
+    - 30-71067811-8
+    - DORREGO 1940 4TO DF TB
+    - CAPITAL
+    - ""
+    - "1414"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "13"
+    - COFFELINE S.A.
+    - ""
+    - 30-69013740-9
+    - ESTANISLAO ZEBALLOS 1051
+    - AVELLANEDA    BS.AS.
+    - ""
+    - "1870"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "14"
+    - ARGENTOIL S.A.
+    - ""
+    - 30-60978835-2
+    - NRO. 4 Y 110 PARQUE INDUSTRIAL
+    - SAN LUIS       SAN LUIS
+    - ""
+    - "5700"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "15"
+    - SEVRES S.A.
+    - ""
+    - 30-59751775-7
+    - BARROS PAZOS 3470
+    - CAPITAL
+    - ""
+    - "1437"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "16"
+    - GUILLERMO DIETRICH S.A.
+    - ""
+    - 30-54184930-7
+    - HONDURAS 4210
+    - CAPITAL
+    - ""
+    - "1414"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "17"
+    - TAMALLANCOS S.A.
+    - ""
+    - 33-64323594-9
+    - DON BOSCO 3462
+    - CAPITAL
+    - ""
+    - "1206"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "18"
+    - COFFICE S.A.
+    - ""
+    - 30-69661499-3
+    - "CON. REAL MORON          "
+    - BOULOGNE       BS. AS.
+    - ""
+    - "2056"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "19"
+    - "FERRARO HERNAN JOSUE "
+    - ""
+    - 20-20202460-3
+    - MORENO JOSE MARIA 318
+    - CAPITAL
+    - ""
+    - "1424"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "20"
+    - CABRALES S.A.
+    - ""
+    - 30-53774574-2
+    - RIVADAVIA 3173
+    - MAR DEL PLATA   BS.AS.
+    - ""
+    - "7600"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "21"
+    - EMBOTELLADORA MIDA S.A.
+    - ""
+    - 30-70906544-7
+    - 14 DE JULIO 574
+    - CAPITAL
+    - ""
+    - "1427"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "22"
+    - DISTRIBAZ S.A.
+    - ""
+    - 30-70835611-1
+    - REPETTO NICOLAS 1320
+    - CAPITAL
+    - ""
+    - "1416"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "23"
+    - SYSTEMA FILTER S.H.
+    - ""
+    - 30-69768459-6
+    - SANTO DOMINGO 2486
+    - CAPITAL
+    - ""
+    - ""
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "24"
+    - VALOT S.A.
+    - ""
+    - 30-60380823-8
+    - AV. BELGRANO 1250
+    - CAPITAL
+    - ""
+    - ""
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "25"
+    - INTERCAFE S.A.
+    - ""
+    - 30-6917035-2
+    - ARANGUREN 1528
+    - CAPITAL
+    - ""
+    - "1209"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "26"
+    - ROTH JULIO ALBERTO
+    - ""
+    - 20-04436330-6
+    - CORRIENTES 1386
+    - CAPITAL
+    - ""
+    - "1043"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "27"
+    - VIEIRA ARGENTINA S.A.
+    - ""
+    - 30-65047701-0
+    - PERON 949 PISO 7
+    - CAPITAL
+    - ""
+    - "1038"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "28"
+    - ESTABLECIMIENTO SAN CEFERINO S.A.
+    - ""
+    - 33-65188101-9
+    - RUTA 6 KM 169,5
+    - LUJAN       BS.AS.
+    - ""
+    - "6708"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "29"
+    - DIGDANIAN JUAN JOSE
+    - ""
+    - 20-13172130-8
+    - AV. SAN MARTIN 1322
+    - SALTA            SALTA
+    - ""
+    - "4400"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "30"
+    - COTO C.I.C.S.A.
+    - ""
+    - 30-54808315-6
+    - PAISANDU 1842
+    - CAPITAL
+    - ""
+    - "1416"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "31"
+    - AZUL HOTEL S.R.L.
+    - ""
+    - 30-71123108-7
+    - 25 DE MAYO S/N A 20 MTRS. ACCESO SAAVEDRA
+    - BANDERA -SANT. DEL ESTERO
+    - ""
+    - "3064"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "32"
+    - PRODUCTOS ALIMENTICIOS FM S.R.L
+    - ""
+    - 30-70735663-0
+    - BV. CRISTOBAL BERITELLA 7160
+    - B. LOS BULEVARES CORDOBA
+    - ""
+    - "5147"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "33"
+    - PERNAMBUCO S.R.L.
+    - ""
+    - 30-59897453-1
+    - FLORENTINO AMEGHINO 589
+    - VILLA MARTELLI   BS.AS.
+    - ""
+    - "1603"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "34"
+    - APART MARIA BONITA
+    - ""
+    - ""
+    - "PASEO 106 N\xBA 365"
+    - VILLA GESELL  BS.AS.
+    - ""
+    - ""
+    - ""
+    - ""
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "35"
+    - BIOMERIEUX ARGENTINA S A
+    - ""
+    - 30-60437643-2
+    - AV. CONGRESO 1745
+    - CAPITAL
+    - ""
+    - "1428"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "36"
+    - "QUI\xD1ONES MIGUEL"
+    - ""
+    - 20-14626398-5
+    - MARCONI 1621
+    - TANDIL
+    - ""
+    - ""
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "37"
+    - RUGGIERI ALBERTO
+    - ""
+    - 20-04674483-8
+    - AV. SAVIO 279   SAN NICOLAS
+    - BUENOS AIRES
+    - ""
+    - "2900"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "38"
+    - TELLEX S.A.
+    - ""
+    - 30-63040207-3
+    - RINCON 1346
+    - CAPITAL
+    - ""
+    - "1251"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "39"
+    - CARDIOLAB S.A.
+    - ""
+    - 30-56164677-1
+    - AV.CORDOBA 1345 P.9 DTO.B
+    - CAPITAL
+    - ""
+    - "1055"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "40"
+    - TONELL S.R.L.
+    - ""
+    - 30-70803342-8
+    - RUTA 24 N 978
+    - G. RODRIGUES
+    - ""
+    - "1748"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "41"
+    - LOGRIEGO GRACIELA LILIANA
+    - ""
+    - 27-13223225-9
+    - SAN MARTIN 3486
+    - MAR DEL PLATA   BS.AS.
+    - ""
+    - "7600"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "42"
+    - CADENA DE HOTELES RH SA
+    - ""
+    - 30-70705763-3
+    - SAN MARTIN ESQ BELGRANO 101   TRELEW
+    - CHUBUT
+    - ""
+    - "9100"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "43"
+    - "CADENA DE HOTELES RH "
+    - ""
+    - 30-70705763-3
+    - BROWN 2889 PUERTO MADRYN
+    - CHUBUT
+    - ""
+    - "9120"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "44"
+    - PLASTAR SAN JUAN S.A.
+    - ""
+    - 30-616225502-9
+    - ZAPATA Y RUTA NAC 20   LAS CHACRITAS
+    - SAN JUAN
+    - ""
+    - "5417"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "45"
+    - CAFES LA VIRGINIA S.A.
+    - ""
+    - 30-50107713-1
+    - JUAN PABLO SEGUNDO 1340 BIS   ROSARIO
+    - SANTA FE
+    - ""
+    - "2000"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "46"
+    - SIEGWERK ARGENTINA S.A.
+    - ""
+    - 30-67655867-1
+    - "DESCARTES 3595   TORTUGUITAS "
+    - BUENOS AIRES
+    - ""
+    - "1667"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "47"
+    - NIKAE SRL
+    - ""
+    - 30-70875940-2
+    - LAVALLE 1625  1RO
+    - CAPITAL
+    - ""
+    - "1048"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "48"
+    - LOS 5 HISPANOS S.A.
+    - ""
+    - 30-55541422-2
+    - TRIUNVIRATO 1250 RAMOS MEJIA
+    - BUENOS AIRES
+    - ""
+    - ""
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "49"
+    - HOTELES DEL SUR S.R.L
+    - ""
+    - 30-63790263-2
+    - SAN MARTIN 673    RIO GALLEGOS
+    - SANTA CRUZ
+    - ""
+    - "9400"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "50"
+    - BACTSA SA
+    - ""
+    - 30-67816723-8
+    - EDISON T Y CALLE 8
+    - CAPITAL
+    - ""
+    - "1104"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "51"
+    - FUTUREBRAND S.A.
+    - ""
+    - 30-70711742-3
+    - DEMARIA 4659
+    - CAPITAL
+    - ""
+    - "1425"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "52"
+    - ROYAL VENDING S.A.
+    - ""
+    - 33-66319414-9
+    - RIO DE JANEIRO 2150   MARTINEZ
+    - BUENOS AIRES
+    - ""
+    - "1640"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "53"
+    - XP SERVICE
+    - ""
+    - 30-68749369-5
+    - ALICIA MOREAU DE JUSTO 1848
+    - CAPITAL
+    - ""
+    - ""
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "54"
+    - BRIOZZO GRACIELA MARTA
+    - ""
+    - 27-13448151-5
+    - 25 DE MAYO 7194  ROSARIO SUD
+    - SANTA FE
+    - ""
+    - "2000"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "55"
+    - FORTALEZA S.R.L
+    - ""
+    - 30-70970821-6
+    - "FIGUEROA ALCORTA 850     GODOY CRUZ "
+    - MENDOZA
+    - ""
+    - "5501"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "56"
+    - SERVICIOS COMPASS DE ARG. S.A.
+    - ""
+    - 30-68250597-0
+    - ALICIA MOREAU DE JUSTO 3368
+    - LOMAS DEL MIRADOR   BS.AS
+    - ""
+    - "1752"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "57"
+    - CENTRALAB S.A.
+    - ""
+    - 30-67733941-8
+    - VEGA NICETO CNEL 5651
+    - CAPITAL
+    - ""
+    - "1414"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "58"
+    - SEGAFREDO ZANETTI ARGENTINA S.A.
+    - ""
+    - 30-70707733-2
+    - TRIUNVIRATO AV.  2716
+    - CAPITAL
+    - ""
+    - "1427"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "59"
+    - GRUPO GIGA S.A.
+    - ""
+    - 30-70148136-0
+    - MAGALLANES 1774   ROSARIO
+    - SANTA FE
+    - ""
+    - "2000"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "60"
+    - CODIPA S.A.
+    - ""
+    - 30-52182776-5
+    - SAN MARTIN 627 PISO 5
+    - CAPITAL
+    - ""
+    - "1374"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "61"
+    - HOTELES MEDITERRANEO
+    - ""
+    - 30-70884880-4
+    - POSADAS 1557
+    - CAPITAL
+    - ""
+    - "1112"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "62"
+    - "URBAN STATION "
+    - ""
+    - 30-71113442-1
+    - EL SALVADOR 4588
+    - CAPITAL
+    - ""
+    - "1414"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "63"
+    - EQUIPOS DEL CHEF S.A.
+    - ""
+    - 30-70824679-0
+    - "GRAL E MOSCONI  3153   SAENZ PE\xD1A"
+    - BUENOS AIRES
+    - ""
+    - "1674"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "64"
+    - PRO UNIVERSAL S.A.
+    - ""
+    - "33-71087880-9 "
+    - MONTECASEROS 2735   MENDOZA
+    - MENDOZA
+    - ""
+    - "5500"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "65"
+    - PRODUCCIONES G M A  S.A.
+    - ""
+    - 30-70299780-8
+    - FREIRE R. CAP  G 932
+    - CAPITAL
+    - ""
+    - "1426"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "66"
+    - CLOSS DELIA ADRIANA
+    - ""
+    - "27-13471583-4 "
+    - CORDOBA 2115   POSADAS
+    - MISIONES
+    - ""
+    - "3300"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "67"
+    - BRIOZZO GRACIELA MARTA
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "68"
+    - GNC BARILOCHE
+    - ""
+    - "30-68911564-7 "
+    - BESCHTEDT 1620    BARILOCHE
+    - RIO NEGRO
+    - ""
+    - "8400"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "69"
+    - ROQUETA PRAT S.A.
+    - ""
+    - 30-53042866-0
+    - RIVADAVIA 190   COMODORO RIVADAVIA
+    - CHUBUT
+    - ""
+    - "9000"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "70"
+    - "FAIVELE S.A "
+    - ""
+    - 30-70862322-5
+    - HONDURAS 4742  PISO 7
+    - CAPITAL
+    - ""
+    - "1414"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "71"
+    - ELECTROSERVICE S.A.
+    - ""
+    - 30-64239855-1
+    - "ESMERALDA 870 "
+    - CAPITAL
+    - ""
+    - "1007"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "72"
+    - CAFE ROCAMORA
+    - ""
+    - 30-70773205-5
+    - BONORINO E. CNEL 1262
+    - CAPITAL
+    - ""
+    - "1406"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "73"
+    - TUDESCO
+    - ""
+    - 20-13624629-2
+    - SAN MARTIN 565   COMODORO RIVADAVIA
+    - CHUBUT
+    - ""
+    - ""
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "74"
+    - BAHICAFE S.A.
+    - ""
+    - 30-70869393-2
+    - HIPOLITO IRIGOYEN 238   BAHIA BLANCA
+    - BUENOS AIRES
+    - ""
+    - "8000"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "75"
+    - LABORATORIOS SZAMA
+    - ""
+    - 33-50547609-9
+    - LAFUENTE AV. 161
+    - CAPITAL
+    - ""
+    - "1406"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "76"
+    - DEMARCO NATALIA LORENA
+    - ""
+    - 27-28425895-4
+    - CATAMARCA 1008 PISO PB.  GRAL PAZ NORTE
+    - CORDOBA
+    - ""
+    - "5000"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 0351-4514100
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "77"
+    - NOVEL HOTEL S.R.L
+    - ""
+    - 30-53623319-5
+    - "AV DE MAYO 915 "
+    - CAPITAL
+    - ""
+    - "1084"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - "43450504"
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "78"
+    - COMP. CAFETERA DEL SUR S.R.L
+    - ""
+    - 30-59472021-7
+    - P. INDUS. RUTA 7 KM. 4.5
+    - NEUQUEN
+    - ""
+    - "8300"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 0299-4413282
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "79"
+    - JUFALA S.R.L
+    - ""
+    - 30-70919275-9
+    - "SAN MARTIN 629  LOCAL 41  "
+    - SAN MIGUEL DE TUCUMAN
+    - ""
+    - "4000"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "80"
+    - VEGA Y CAMJI S.A.I.C
+    - ""
+    - 30-50345302-5
+    - 14 DE JULIO 344
+    - CAPITAL
+    - ""
+    - "1427"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - "45524223"
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "81"
+    - ULTRA PRESS S.A.I.C.
+    - ""
+    - 30-55515841-2
+    - PARANA 5843   VILLA ADELINA
+    - BUENOS AIRES
+    - ""
+    - "1607"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "82"
+    - "S K F ARGENTINA S A "
+    - ""
+    - 30-52547959-1
+    - PERU 545
+    - CAPITAL
+    - ""
+    - "1068"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "83"
+    - MONTERO JOSE LUIS
+    - ""
+    - 20-23584825-3
+    - ZUVIRIA 2856     SALTA
+    - "SALTA            "
+    - ""
+    - ""
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 0387-4390610
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "84"
+    - BANCO DE LA PAMPA S.E.M
+    - ""
+    - 30-50001251-6
+    - PELLEGRINI 255   SANTA ROSA
+    - LA PAMPA
+    - ""
+    - "6300"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 02954-451146
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "85"
+    - CAFE OYAMBRE SRL
+    - ""
+    - 30-57889900-2
+    - AV. RIVADAVIA 12986/88    RAMOS MEJIA
+    - BUENOS AIRES
+    - ""
+    - "1704"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "86"
+    - NEW ROM SANITARIOS S.A.
+    - ""
+    - 30-71013364-2
+    - AV. CONSTITUCION 6325   MAR DEL PLATA
+    - BUENOS AIRES
+    - ""
+    - "7600"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "87"
+    - "MENDEZ HORACIO "
+    - ""
+    - 20-04258969-2
+    - RAMIREZ DE VELAZCO J 979
+    - CAPITAL
+    - ""
+    - "1414"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - |-
+      156-3958467 JOSE 
+       HERNAN 156395-8468
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "88"
+    - INTERNATIONAL HOME S.A.
+    - ""
+    - 30-70208894-8
+    - GAVILAN 1750
+    - CAPITAL
+    - ""
+    - "1416"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 4582-0777
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "89"
+    - ODITEC S.A.
+    - ""
+    - 30-59422583-6
+    - CAP. JUSTO G BERMUDEZ 3566
+    - OLIVOS  BUENOS AIRES
+    - ""
+    - "1636"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "90"
+    - CAMARA EMPRESARIA DE VICENTE LOPEZ
+    - ""
+    - 30-52711488-4
+    - AVDA MAIPU 1536
+    - FLORIDA   BUENOS AIRES
+    - ""
+    - "1602"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 4139-5555
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "91"
+    - BENASSATI HUMBERTO
+    - ""
+    - 30-61629817-4
+    - SOLER 347
+    - BAHIA BLANCA   BS.AS
+    - ""
+    - "8000"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "92"
+    - GEMATIC SRL
+    - ""
+    - 30-69123502-1
+    - ALMAFUERTE 4277
+    - MUNRO    BUENOS AIRES
+    - ""
+    - "1605"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "93"
+    - COHORT PATRICIO
+    - ""
+    - 23-22500653-9
+    - MARTIN FIERRO 1521
+    - BARILOCHE  RIO NEGRO
+    - ""
+    - "8400"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "94"
+    - QUIPLAST SAICIF
+    - ""
+    - 30-50470383-1
+    - 29 MERCEDES 2976
+    - SAN MARTIN  BS.AS
+    - ""
+    - "1650"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 4752-6122
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "95"
+    - BAXTER ARGENTINA S.A.
+    - ""
+    - 30-53920359-9
+    - "ENTRE RIOS 1632 "
+    - " OLIVOS  BS.AS."
+    - ""
+    - "1636"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 4711-4100
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "96"
+    - JOSE VIDALES SACIFI
+    - ""
+    - 30-50201507-5
+    - ALBERTI 1225/7
+    - CAPITAL
+    - ""
+    - ""
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 4941-9888
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "97"
+    - UTHGRA
+    - ""
+    - 34-53133865-2
+    - DE MAYO AV. 930
+    - CAPITAL
+    - ""
+    - "1804"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 4951-3681
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "98"
+    - ROMERO DANIEL AMERICO
+    - ""
+    - 20-11421786-8
+    - ZAPIOLA 1041
+    - BRAGADO  BS.AS
+    - ""
+    - "6640"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 02346-15655568
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "99"
+    - PATAGONIA GAS
+    - ""
+    - 30-70853958-5
+    - ALBERDI 250  PISO 11 DTO 2
+    - NEUQUEN-NEUQUEN
+    - ""
+    - "8300"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 4503-6702
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "100"
+    - ECU LOGISTICS S.A
+    - ""
+    - 30-71020219-9
+    - AV. BELGRANO 355 PISO 12
+    - CAPITAL
+    - ""
+    - "1092"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "101"
+    - DISTRIBUIDORA CUYANA
+    - ""
+    - 30-54325757-1
+    - CHACABUCO 228
+    - MENDOZA
+    - ""
+    - "5500"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 0261-4380703
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "102"
+    - COFFE LEADER S.A.
+    - ""
+    - 30-71106090-8
+    - ROSARIO 3273
+    - SAN ANDRES    BS.AS
+    - ""
+    - "1651"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 4767-6080
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "103"
+    - DRINK EXPRESS
+    - ""
+    - 30-69961162-6
+    - MITRE 1869
+    - MENDOZA
+    - ""
+    - "5500"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - WASHINGTONG 125  DORREGO GUAYMALLEN
+    - MENDOZA
+    - ""
+    - ""
+    - ""
+    - ""
+    - 0261-4526635
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "104"
+    - "CARIBE\xD1O S.A."
+    - ""
+    - 30-61407747-2
+    - "NICASIO ORO\xD1O 2433"
+    - CAPITAL
+    - ""
+    - "1416"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - BUONCAFF
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "105"
+    - S Y L EQUIPAMIENTOS S.A.
+    - ""
+    - 30-71097908-8
+    - MAIPU 1441
+    - VENADO TUERTO   SANTA FE
+    - ""
+    - "2600"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - H DE LA QUINTANA  3390
+    - ROSARIO   SANTA FE
+    - ""
+    - "0"
+    - ""
+    - ""
+    - 0346-15467406
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "106"
+    - BELGRANO  JUNIORS  S. A.
+    - ""
+    - 30-67670338-8
+    - LA PAMPA  1117
+    - CAPITAL
+    - ""
+    - "1428"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 4786-1585
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "107"
+    - DIEGO GARCIA
+    - ""
+    - ""
+    - VICENTE PALLOTTI 36
+    - VILLA  GRAL. BELGRANO
+    - ""
+    - "5194"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "108"
+    - ASTESIANO S.S.
+    - ""
+    - 33-52809421-9
+    - DIAZ VELEZ 3663
+    - CAPITAL
+    - ""
+    - ""
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 4864-5128
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "109"
+    - LLORSTIN S.A.
+    - ""
+    - 33-70850224-9
+    - URUGUAY 694  PISO 1
+    - CAPITAL
+    - ""
+    - "1015"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ENTRE RIOS 70
+    - CORDOBA
+    - ""
+    - ""
+    - ""
+    - ""
+    - 351-4212031/38
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "110"
+    - ASOCIACION MUTUAL SANCOR
+    - ""
+    - 30-59035479-8
+    - AV. INDEPENDENCIA  206  PISO 1
+    - " SUNCHALES  SANTA FE "
+    - ""
+    - "2322"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 4812-3500
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "111"
+    - T 4 F ENTRETENIMIENTOS ARGENTINA S.A.
+    - ""
+    - 30-69481022-1
+    - CABRERA JOSE A 6061 PISO 6
+    - CAPITAL
+    - ""
+    - "1414"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 5530-8223
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "112"
+    - INSTALACIONES COMERCIALES SRL
+    - ""
+    - 30-70812365-6
+    - "GATICA 312  "
+    - NEUQUEN - NEUQUEN
+    - ""
+    - "8300"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "113"
+    - JORGE A HALLADJIAN
+    - ""
+    - 20-04311699-2
+    - COCHABAMBA 2721
+    - CAPITAL
+    - ""
+    - ""
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 4773-6250
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "114"
+    - DIFFUPAR S.A.
+    - ""
+    - 30-61655696-3
+    - ESTOMBA 580
+    - CAPITAL
+    - ""
+    - "1427"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 4552-3065
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "115"
+    - CAFE BERTONE
+    - ""
+    - 30-70957782-0
+    - GRAL GUIDO 288
+    - LANUS  BS.AS.
+    - ""
+    - "1824"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 4249-6729
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "116"
+    - EAFF S.A.
+    - ""
+    - 30-65789182-3
+    - VIAMONTE 1145  3RO A
+    - CAPITAL
+    - ""
+    - ""
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 4372-1300
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "117"
+    - LIM-PIA S.R.L
+    - ""
+    - 30-68515773-6
+    - DEHEZA 4797
+    - CAPITAL
+    - ""
+    - ""
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 4541-3391
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "118"
+    - "TUR LYFE S.A. "
+    - ""
+    - 30-65815067-3
+    - CORRIENTES AV. 1982
+    - CAPITAL
+    - ""
+    - "1045"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - CLIENTE CABRALES
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "119"
+    - GARCIA ALCIRA BEATRIZ
+    - ""
+    - 27-04482055-8
+    - LIMA 573
+    - CAPITAL
+    - ""
+    - "1073"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 4372-7781
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "120"
+    - COFFEA SRL
+    - ""
+    - 30-63275599-2
+    - SANTA FE 1598
+    - ROSARIO  SANTA FE
+    - ""
+    - "2000"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 0341-4480111
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "121"
+    - OLD CAFE SRL
+    - ""
+    - 30-62266257-0
+    - "7 N\xBA835"
+    - LA PLATA NOROESTE  BS-AS
+    - ""
+    - "1900"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "122"
+    - "CAFE MUI\xD1O"
+    - ""
+    - 30-52345614-4
+    - AV. EVA PERON 4443
+    - CAPITAL
+    - ""
+    - "1407"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 4635-3429
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "123"
+    - MORONI SRL
+    - ""
+    - 30-70950213-8
+    - GRAL. PAZ 30
+    - BELL VILLE   CORDOBA
+    - ""
+    - "2550"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 03534-426475
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "124"
+    - N B S NUEVO BAZAR SRL
+    - ""
+    - 30-70773809-6
+    - AV. DEL LIBERTADOR 1254
+    - VICENTE LOPEZ  BS.AS.
+    - ""
+    - "1638"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 4837-0022
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "125"
+    - LONDERO SERGIO DANIEL
+    - ""
+    - 20-20079435-5
+    - "AV. CARRANZA 50  "
+    - VILLA NUEVA   CORDOBA
+    - ""
+    - "5903"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 03534912-741
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "126"
+    - BORRONI CLAUDIA FABIANA
+    - ""
+    - 27-13582763-6
+    - VELEZ SARFIELD 58
+    - RIO GALLEGOS  SANTA CRUZ
+    - ""
+    - "129"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "127"
+    - LABORATORIO IMVI S.A.
+    - ""
+    - 30-55584784-6
+    - OLAZABAL 1665
+    - CAPITAL
+    - ""
+    - "1428"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "128"
+    - SIDECO AMERICANA
+    - ""
+    - 30-51716453-0
+    - AV DEL LIBERTADOR 498 PISO 18
+    - CAPITAL
+    - ""
+    - "1001"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 5276-8638
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "129"
+    - DROGUERIA SAPORITI S.A.C.I.F.I.A.
+    - ""
+    - 30-51559391-4
+    - AV. DEL CAMPO 1449
+    - CAPITAL
+    - ""
+    - "1427"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 4555-8300
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "130"
+    - ARRANZ ELENA
+    - ""
+    - 27-00167513-9
+    - TUCUMAN 317
+    - CAPITAL
+    - ""
+    - "1049"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 4312-8024
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "131"
+    - JUMBO RETEI
+    - ""
+    - 30-60676296-4
+    - TUCUMAN 3720
+    - CAPITAL
+    - ""
+    - ""
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 5586-17600
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "132"
+    - BECKER JOSE LUIS
+    - ""
+    - 20-10540771-9
+    - SAN NICOLAS 763
+    - PERGAMINO   BS.AS
+    - ""
+    - "2700"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 02477-412692
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "133"
+    - CARAVANA SRL
+    - ""
+    - 30-52590878-6
+    - AV. CASEROS 1965
+    - CAPITAL
+    - ""
+    - "1152"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 4304-7440
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "134"
+    - GRAN CAFETAL S.A.
+    - ""
+    - 30-70910501-5
+    - SAN MARTIN 1483
+    - MENDOZA MENDOZA
+    - ""
+    - "5500"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - true
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - |-
+      0261-155-699046 
+       ERNESTO VARGAS
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "135"
+    - BALACE SRL HOTEL AYUI
+    - ""
+    - 30-68880585-2
+    - SAN LUIS 854
+    - CONCORDIA  ENTRE RIOS
+    - ""
+    - "3200"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - LAGO SALTO GRANDE
+    - CONCORDIA ENTRE RIOS
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "136"
+    - MIRA CINE SRL
+    - ""
+    - 30-71078885-1
+    - SAN JUAN 3242
+    - CAPITAL
+    - ""
+    - "1233"
+    - ""
+    - RESP. INSCRIPTO
+    - false
+    - false
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - ""
+    - "1541752646"
+    - 2010-06-17 20:58:58
+    - 2010-06-17 20:58:58
+  - - "137"
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - false
+    - false
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 2010-06-21 01:17:31
+    - 2010-06-21 01:17:31
+
+--- 
+invoice_products: 
+  columns: 
+  - id
+  - quantity
+  - price
+  - invoice_id
+  - product_id
+  - created_at
+  - updated_at
+  - detalles
+  records: 
+  - - "1"
+    - "20"
+    - "20"
+    - "1"
+    - "1"
+    - 2010-06-17 21:01:23
+    - 2010-06-17 21:01:23
+    - ssds
+  - - "2"
+    - "30"
+    - "30"
+    - "1"
+    - "2"
+    - 2010-06-21 00:40:22
+    - 2010-06-21 00:40:22
+    - 
+  - - "3"
+    - "10"
+    - "10"
+    - "2"
+    - "1"
+    - 2010-06-21 00:42:44
+    - 2010-06-21 00:42:44
+    - 
+  - - "4"
+    - "40"
+    - "40"
+    - "2"
+    - "13"
+    - 2010-06-21 00:42:44
+    - 2010-06-21 00:42:44
+    - 
+  - - "5"
+    - "80"
+    - "80"
+    - "3"
+    - "1"
+    - 2010-06-21 00:44:00
+    - 2010-06-21 00:44:00
+    - 
+  - - "6"
+    - "90"
+    - "90"
+    - "3"
+    - "13"
+    - 2010-06-21 00:44:00
+    - 2010-06-21 00:44:00
+    - 
+  - - "7"
+    - "6"
+    - "6"
+    - "3"
+    - "9"
+    - 2010-06-21 00:44:00
+    - 2010-06-21 00:44:00
+    - 
+
+--- 
+invoices: 
+  columns: 
+  - id
+  - date
+  - nro
+  - remito_nro
+  - details
+  - client_id
+  - created_at
+  - updated_at
+  records: 
+  - - "1"
+    - "2010-06-16"
+    - jkjkjhjh
+    - hhkjhjkkhj
+    - sasad
+    - "1"
+    - 2010-06-17 21:00:43
+    - 2010-06-17 21:00:43
+  - - "2"
+    - "2010-06-21"
+    - "111"
+    - "1111"
+    - 
+    - "7"
+    - 2010-06-21 00:42:16
+    - 2010-06-21 00:42:16
+  - - "3"
+    - "2010-06-24"
+    - "222"
+    - "222"
+    - 
+    - "1"
+    - 2010-06-21 00:43:09
+    - 2010-06-21 00:43:09
+
+--- 
+netzke_field_lists: 
+  columns: 
+  - id
+  - name
+  - value
+  - model_name
+  - user_id
+  - role_id
+  - type
+  - created_at
+  - updated_at
+  records: 
+  - - "1"
+    - american_bar_app__invoices__north
+    - "[{\"editable\":false,\"hidden\":true,\"editor\":\"numberfield\",\"filterable\":true,\"sortable\":true,\"label\":\"Id\",\"name\":\"id\",\"attr_type\":\"integer\"},{\"editable\":true,\"editor\":\"datefield\",\"filterable\":true,\"sortable\":true,\"name\":\"date\",\"label\":\"Fecha\",\"attr_type\":\"date\"},{\"width\":215,\"editable\":true,\"editor\":\"combobox\",\"filterable\":true,\"sortable\":true,\"name\":\"client__name\",\"label\":\"Cliente\"},{\"editable\":true,\"editor\":\"textfield\",\"filterable\":true,\"sortable\":true,\"name\":\"nro\",\"label\":\"Factura Nro\",\"attr_type\":\"string\"},{\"editable\":true,\"editor\":\"textfield\",\"filterable\":true,\"sortable\":true,\"name\":\"remito_nro\",\"label\":\"Remito Nro\",\"attr_type\":\"string\"},{\"editable\":true,\"editor\":\"textarea\",\"filterable\":true,\"sortable\":true,\"name\":\"details\",\"label\":\"Detalles\",\"attr_type\":\"text\"}]"
+    - Invoice
+    - 
+    - 
+    - 
+    - 2010-06-21 00:39:59
+    - 2010-06-21 00:39:59
+  - - "2"
+    - american_bar_app__invoices__center
+    - "[{\"width\":195,\"editable\":true,\"editor\":\"combobox\",\"filterable\":true,\"sortable\":true,\"label\":\"Product  name\",\"name\":\"product__name\"},{\"editable\":true,\"editor\":\"numberfield\",\"filterable\":true,\"sortable\":true,\"label\":\"Quantity\",\"name\":\"quantity\",\"attr_type\":\"integer\",\"default_value\":null},{\"editable\":true,\"editor\":null,\"filterable\":true,\"sortable\":true,\"label\":\"Price\",\"name\":\"price\",\"attr_type\":\"float\",\"default_value\":null},{\"editable\":false,\"editor\":\"textfield\",\"filterable\":false,\"sortable\":false,\"virtual\":true,\"label\":\"Line total\",\"name\":\"line_total\",\"attr_type\":\"string\"}]"
+    - Netzke::ModelExtensions::InvoiceProductForGridPanel
+    - 
+    - 
+    - 
+    - 2010-06-21 00:40:04
+    - 2010-06-21 00:40:04
+  - - "3"
+    - american_bar_app__client_product
+    - "[{\"hidden\":true,\"editable\":false,\"editor\":null,\"sortable\":true,\"filterable\":true,\"label\":\"Id\",\"name\":\"id\"},{\"width\":217,\"editable\":true,\"editor\":\"combobox\",\"sortable\":true,\"filterable\":true,\"name\":\"invoice__client__name\",\"label\":\"Cliente\"},{\"width\":127,\"editable\":true,\"editor\":\"combobox\",\"sortable\":true,\"filterable\":true,\"name\":\"invoice__date\",\"label\":\"Fecha\"},{\"width\":185,\"editable\":true,\"editor\":\"combobox\",\"sortable\":true,\"filterable\":true,\"name\":\"product__name\",\"label\":\"Producto\"},{\"width\":140,\"editable\":true,\"editor\":\"numberfield\",\"sortable\":true,\"filterable\":true,\"name\":\"quantity\",\"label\":\"Cantidad\",\"attr_type\":\"integer\",\"default_value\":null},{\"editable\":true,\"editor\":null,\"sortable\":true,\"filterable\":true,\"name\":\"price\",\"label\":\"Precio\",\"attr_type\":\"float\",\"default_value\":null}]"
+    - Netzke::ModelExtensions::InvoiceProductForGridPanel
+    - 
+    - 
+    - 
+    - 2010-06-21 00:44:13
+    - 2010-06-21 00:44:19
+  - - "4"
+    - american_bar_app__clients__center
+    - "[{\"hidden\":true,\"editable\":false,\"editor\":\"numberfield\",\"sortable\":true,\"filterable\":true,\"label\":\"Id\",\"name\":\"id\",\"attr_type\":\"integer\"},{\"editable\":true,\"editor\":\"textfield\",\"sortable\":true,\"filterable\":true,\"label\":\"Name\",\"name\":\"name\",\"attr_type\":\"string\"},{\"hidden\":true,\"editable\":true,\"editor\":\"textfield\",\"sortable\":true,\"filterable\":true,\"label\":\"Nombre fantasia\",\"name\":\"nombre_fantasia\",\"attr_type\":\"string\"},{\"editable\":true,\"editor\":\"textfield\",\"sortable\":true,\"filterable\":true,\"label\":\"Cuit\",\"name\":\"cuit\",\"attr_type\":\"string\"},{\"editable\":true,\"editor\":\"textfield\",\"sortable\":true,\"filterable\":true,\"label\":\"Direccion\",\"name\":\"direccion\",\"attr_type\":\"string\"},{\"editable\":true,\"editor\":\"textfield\",\"sortable\":true,\"filterable\":true,\"label\":\"Localidad\",\"name\":\"localidad\",\"attr_type\":\"string\"},{\"editable\":true,\"editor\":\"textfield\",\"sortable\":true,\"filterable\":true,\"label\":\"Provincia\",\"name\":\"provincia\",\"attr_type\":\"string\"},{\"editable\":true,\"editor\":\"textfield\",\"sortable\":true,\"filterable\":true,\"label\":\"Cp\",\"name\":\"cp\",\"attr_type\":\"string\"},{\"hidden\":true,\"editable\":true,\"editor\":\"textfield\",\"sortable\":true,\"filterable\":true,\"label\":\"Condicion venta\",\"name\":\"condicion_venta\",\"attr_type\":\"string\"},{\"hidden\":true,\"editable\":true,\"editor\":\"textfield\",\"sortable\":true,\"filterable\":true,\"label\":\"Condicion iva\",\"name\":\"condicion_iva\",\"attr_type\":\"string\"},{\"width\":50,\"editable\":true,\"editor\":\"checkbox\",\"sortable\":true,\"filterable\":true,\"label\":\"Descuento10\",\"name\":\"descuento10\",\"attr_type\":\"boolean\"},{\"width\":50,\"editable\":true,\"editor\":\"checkbox\",\"sortable\":true,\"filterable\":true,\"label\":\"Descuento20\",\"name\":\"descuento20\",\"attr_type\":\"boolean\"},{\"hidden\":true,\"editable\":true,\"editor\":\"textfield\",\"sortable\":true,\"filterable\":true,\"label\":\"Remito direccion\",\"name\":\"remito_direccion\",\"attr_type\":\"string\"},{\"hidden\":true,\"editable\":true,\"editor\":\"textfield\",\"sortable\":true,\"filterable\":true,\"label\":\"Remito localidad\",\"name\":\"remito_localidad\",\"attr_type\":\"string\"},{\"hidden\":true,\"editable\":true,\"editor\":\"textfield\",\"sortable\":true,\"filterable\":true,\"label\":\"Remito provincia\",\"name\":\"remito_provincia\",\"attr_type\":\"string\"},{\"hidden\":true,\"editable\":true,\"editor\":\"textfield\",\"sortable\":true,\"filterable\":true,\"label\":\"Remito cp\",\"name\":\"remito_cp\",\"attr_type\":\"string\"},{\"hidden\":true,\"editable\":true,\"editor\":\"textfield\",\"sortable\":true,\"filterable\":true,\"label\":\"Email\",\"name\":\"email\",\"attr_type\":\"string\"},{\"hidden\":true,\"editable\":true,\"editor\":\"textfield\",\"sortable\":true,\"filterable\":true,\"label\":\"Tel fax\",\"name\":\"tel_fax\",\"attr_type\":\"string\"},{\"hidden\":true,\"editable\":true,\"editor\":\"textarea\",\"sortable\":true,\"filterable\":true,\"label\":\"Observaciones\",\"name\":\"observaciones\",\"attr_type\":\"text\"},{\"hidden\":true,\"width\":150,\"editable\":true,\"editor\":\"xdatetime\",\"sortable\":true,\"filterable\":true,\"label\":\"Created at\",\"name\":\"created_at\",\"attr_type\":\"datetime\"},{\"hidden\":true,\"width\":150,\"editable\":true,\"editor\":\"xdatetime\",\"sortable\":true,\"filterable\":true,\"label\":\"Updated at\",\"name\":\"updated_at\",\"attr_type\":\"datetime\"}]"
+    - Client
+    - 
+    - 
+    - 
+    - 2010-06-21 00:50:20
+    - 2010-06-21 00:50:45
+
+--- 
+netzke_preferences: 
+  columns: 
+  - id
+  - name
+  - pref_type
+  - value
+  - user_id
+  - role_id
+  - widget_name
+  - created_at
+  - updated_at
+  records: 
+  - - "1"
+    - regions__north__region_config__height
+    - Fixnum
+    - "193"
+    - 
+    - 
+    - american_bar_app__invoices
+    - 2010-06-21 00:39:55
+    - 2010-06-21 00:39:55
+  - - "2"
+    - ext_config
+    - Hash
+    - "{\"x\":256,\"y\":56,\"height\":463,\"width\":768}"
+    - 
+    - 
+    - american_bar_app__clients__center__edit_form
+    - 2010-06-21 00:51:38
+    - 2010-06-21 00:51:58
+
+--- 
+products: 
+  columns: 
+  - id
+  - name
+  - created_at
+  - updated_at
+  - price
+  records: 
+  - - "1"
+    - MODULO DOBLE
+    - 2010-06-17 20:58:05
+    - 2010-06-21 01:20:03
+    - "800"
+  - - "2"
+    - FILTRO DE PAPEL X 108 UNIDADES
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "18"
+  - - "3"
+    - RESIST. MANTENEDOR
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "25"
+  - - "4"
+    - JARRA TERMIiCA VIDRIO 1.8 LTS
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "43"
+  - - "5"
+    - FILTRO IMPORTADO DE PAPEL
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "8"
+  - - "6"
+    - JARRA TERMICA VIDRIO 1.8 LTS
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "43"
+  - - "7"
+    - CAFETERA 10 LITROS CANILLA BRONCE
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "1210"
+  - - "8"
+    - "TAPA CAFETERA MODELO CONTENEDOR "
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "60"
+  - - "9"
+    - FILTRO MALLA METALICA
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "37"
+  - - "10"
+    - TUBO NIVEL 10 LITROS
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "16"
+  - - "11"
+    - CAFETERA 35 LITROS
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "2980"
+  - - "12"
+    - CAFETERA 10 LTS
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "1200"
+  - - "13"
+    - CANASTO
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "20"
+  - - "14"
+    - FILTRO MALLA METALICA CHICO
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "55"
+  - - "15"
+    - CAFETERA MODELO 4 LITROS
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "1476"
+  - - "16"
+    - CAFETERA 25 LITROS
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "2070"
+  - - "17"
+    - TUERCA PLASTICA
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "9"
+  - - "18"
+    - PIEZAS PLASTICAS CANILLA BRONCE
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "20"
+  - - "19"
+    - RESORTE CANILLA BRONCE
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "10"
+  - - "20"
+    - TAPON SILICONADO CANILLA BRONCE
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "18"
+  - - "21"
+    - BASE PLASTICA COMPLETA
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "50"
+  - - "22"
+    - BASE ACERO
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "80"
+  - - "23"
+    - RESISTENCIA SUNCHO 400 W.
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "75"
+  - - "24"
+    - TUBO NIVEL 6 O 10 LITROS COMPLETO
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "20"
+  - - "25"
+    - TUBO NIVEL 18 LITROS COMPLETO
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "24"
+  - - "26"
+    - JUEGO DE PATAS (4 UNIDADES)
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "25"
+  - - "27"
+    - TEE NIVEL BRONCE
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "55"
+  - - "28"
+    - "LLUVIA 4 LTS "
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "19"
+  - - "29"
+    - CAFETERA 18 LITROS
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "1881"
+  - - "30"
+    - CAFETERA BONIFICACION
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "0"
+  - - "31"
+    - INTERRUPTOR 4 LITROS
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "9"
+  - - "32"
+    - CAFETERA 6 LTS
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "1090"
+  - - "33"
+    - CANILLA PLASTICA
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "18"
+  - - "34"
+    - TERMOSTATO CONTENEDOR
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "93"
+  - - "35"
+    - LANA DE VIDRIO 10 LITROS
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "20"
+  - - "36"
+    - PORTA FILTRO SOLO
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "32"
+  - - "37"
+    - RACRD PLASTICO
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "10"
+  - - "38"
+    - MODULO SIMPLE
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "418"
+  - - "39"
+    - PORTA FILTRO COMPLETO
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "48"
+  - - "40"
+    - TUERCA TUBO NIVEL
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "9"
+  - - "41"
+    - RESISTENCA S. B.
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "120"
+  - - "42"
+    - RESISTENCIA 1000 w
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "75"
+  - - "43"
+    - "ORDEN DE COMPRA N\xBA 6,352"
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "0"
+  - - "44"
+    - RESISTENCIA CALDERA 4 LTS
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "75"
+  - - "45"
+    - "O'RING "
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "22"
+  - - "46"
+    - JUNTA
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "8"
+  - - "47"
+    - TUBO NIVEL COMPLETO (TAPON Y JUNTA)
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "20"
+  - - "48"
+    - OJO DE BUEY
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "8"
+  - - "49"
+    - LECHERA 10 LTS
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "1017"
+  - - "50"
+    - PORTA FILTRO COMPLETO
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "48"
+  - - "51"
+    - CODO PLASTICO
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "9"
+  - - "52"
+    - TAPA DE CALDERA COMPLETA
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "80"
+  - - "53"
+    - CAFETERA 6 LTS CANILLA DE BRONCE
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "1160"
+  - - "54"
+    - LECHERA 6 LTS
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "1010"
+  - - "55"
+    - TAPA PLASTICA CAFETERA 4 LTS
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "10"
+  - - "56"
+    - FILTRO MALLA METALICA 20 LITROS
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "160"
+  - - "57"
+    - TUBO NIVEL 18 LTS
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "20"
+  - - "58"
+    - "REPARACION N\xBA 4080"
+    - 2010-06-17 20:58:05
+    - 2010-06-17 20:58:05
+    - "205"
+
+--- 
+roles: 
+  columns: 
+  - id
+  - name
+  - created_at
+  - updated_at
+  records: 
+  - - "1"
+    - administrator
+    - 2010-06-17 20:14:35
+    - 2010-06-17 20:14:35
+
+--- 
+sessions: 
+  columns: 
+  - id
+  - session_id
+  - data
+  - created_at
+  - updated_at
+  records: 
+  - - "1"
+    - 43d1dde8c12e8d27006ff54b9af09fbe
+    - |
+      BAh7EyImYW1lcmljYW5fYmFyX2FwcF9fY2xpZW50c19fY2VudGVyewc6EGxh
+      c3RfcGFyYW1zQzoeSGFzaFdpdGhJbmRpZmZlcmVudEFjY2Vzc3sKIhdhdXRo
+      ZW50aWNpdHlfdG9rZW4iACILYWN0aW9uIjBhbWVyaWNhbl9iYXJfYXBwX19j
+      bGllbnRzX19jZW50ZXJfX2dldF9kYXRhIgpzdGFydCIGMCIPY29udHJvbGxl
+      ciILbmV0emtlIgpsaW1pdCIHMjA6GnN0cm9uZ19zZXNzaW9uX2NvbmZpZ3sA
+      OhBfY3NyZl90b2tlbiIxSjlsZ0lLUys4YzU2MzNOVGFXZXpaQ3FwQnM5aVkx
+      bTZWZ2d1eThpRVgxST06E25ldHprZV93aWRnZXRzewY6FWFtZXJpY2FuX2Jh
+      cl9hcHB7BzoJbmFtZTsKOg9jbGFzc19uYW1lIhNBbWVyaWNhbkJhckFwcCIV
+      YW1lcmljYW5fYmFyX2FwcHsGOwd7ACIeYW1lcmljYW5fYmFyX2FwcF9fY2xp
+      ZW50c3sGOwd7ACIfYW1lcmljYW5fYmFyX2FwcF9fcHJvZHVjdHN7BjsAewAi
+      J2FtZXJpY2FuX2Jhcl9hcHBfX2ludm9pY2VzX19jZW50ZXJ7BjsAewAiJWFt
+      ZXJpY2FuX2Jhcl9hcHBfX2NsaWVudHNfX3NvdXRoewY7B3sAOhpuZXR6a2Vf
+      anVzdF9sb2dnZWRfaW5GIiZhbWVyaWNhbl9iYXJfYXBwX19pbnZvaWNlc19f
+      c291dGh7BjsHewAiJWFtZXJpY2FuX2Jhcl9hcHBfX2NsaWVudF9wcm9kdWN0
+      ewY7AHsAOhtuZXR6a2VfanVzdF9sb2dnZWRfb3V0RiImYW1lcmljYW5fYmFy
+      X2FwcF9faW52b2ljZXNfX25vcnRoewY7AHsAIh9hbWVyaWNhbl9iYXJfYXBw
+      X19pbnZvaWNlc3sGOwd7AA==
+
+    - 2010-06-17 20:30:05
+    - 2010-06-17 21:18:29
+  - - "2"
+    - fde27e5f2ccdb36b96a6548f6dd9ca61
+    - |
+      BAh7EiImYW1lcmljYW5fYmFyX2FwcF9fY2xpZW50c19fY2VudGVyewc6GnN0
+      cm9uZ19zZXNzaW9uX2NvbmZpZ3sAOhBsYXN0X3BhcmFtc0M6Hkhhc2hXaXRo
+      SW5kaWZmZXJlbnRBY2Nlc3N7DCIIZGlyIghBU0MiF2F1dGhlbnRpY2l0eV90
+      b2tlbiIAIgthY3Rpb24iMGFtZXJpY2FuX2Jhcl9hcHBfX2NsaWVudHNfX2Nl
+      bnRlcl9fZ2V0X2RhdGEiCnN0YXJ0IgYwIglzb3J0IgluYW1lIg9jb250cm9s
+      bGVyIgtuZXR6a2UiCmxpbWl0IgcyMDoQX2NzcmZfdG9rZW4iMWU3UEN0RGVE
+      ajdySkluQW5XOXdoRW1sMUY3NlRaNjNNZWdEczFvQm5zRkU9OhpuZXR6a2Vf
+      anVzdF9sb2dnZWRfaW5GIhVhbWVyaWNhbl9iYXJfYXBwewY7AHsAIh5hbWVy
+      aWNhbl9iYXJfYXBwX19jbGllbnRzewY7AHsAIidhbWVyaWNhbl9iYXJfYXBw
+      X19pbnZvaWNlc19fY2VudGVyewc7AHsAOwZ7ACIfYW1lcmljYW5fYmFyX2Fw
+      cF9fcHJvZHVjdHN7BzsAewA7BkM7B3sMIghkaXIiCEFTQyILYWN0aW9uIilh
+      bWVyaWNhbl9iYXJfYXBwX19wcm9kdWN0c19fZ2V0X2RhdGEiF2F1dGhlbnRp
+      Y2l0eV90b2tlbiIAIgpzdGFydCIGMCIPY29udHJvbGxlciILbmV0emtlIglz
+      b3J0IgluYW1lIgpsaW1pdCIHMjA6G25ldHprZV9qdXN0X2xvZ2dlZF9vdXRG
+      IiVhbWVyaWNhbl9iYXJfYXBwX19jbGllbnRzX19zb3V0aHsGOwB7ACImYW1l
+      cmljYW5fYmFyX2FwcF9faW52b2ljZXNfX3NvdXRoewY7AHsAOhNuZXR6a2Vf
+      d2lkZ2V0c3sGOhVhbWVyaWNhbl9iYXJfYXBwewc6D2NsYXNzX25hbWUiE0Ft
+      ZXJpY2FuQmFyQXBwOgluYW1lOwwiJmFtZXJpY2FuX2Jhcl9hcHBfX2ludm9p
+      Y2VzX19ub3J0aHsGOwZ7ACIfYW1lcmljYW5fYmFyX2FwcF9faW52b2ljZXN7
+      BzsAewA6GHNlbGVjdGVkX2ludm9pY2VfaWQiBjE=
+
+    - 2010-06-21 00:26:48
+    - 2010-06-21 00:34:22
+  - - "3"
+    - 1bcab127ea031da0cd0fdc98eb914765
+    - |
+      BAh7DjoQX2NzcmZfdG9rZW4iMUo5Y2NtRmlIN3RkMld2eXI4aGE4U2NLazI3
+      NkIyR3dyVmFOM3RqN210N2s9OhpuZXR6a2VfanVzdF9sb2dnZWRfaW5GIhVh
+      bWVyaWNhbl9iYXJfYXBwewY6GnN0cm9uZ19zZXNzaW9uX2NvbmZpZ3sAIidh
+      bWVyaWNhbl9iYXJfYXBwX19pbnZvaWNlc19fY2VudGVyewc7B3sAOhBsYXN0
+      X3BhcmFtc3sAOhtuZXR6a2VfanVzdF9sb2dnZWRfb3V0RiImYW1lcmljYW5f
+      YmFyX2FwcF9faW52b2ljZXNfX3NvdXRoewY7B3sAOhNuZXR6a2Vfd2lkZ2V0
+      c3sGOhVhbWVyaWNhbl9iYXJfYXBwewc6D2NsYXNzX25hbWUiE0FtZXJpY2Fu
+      QmFyQXBwOgluYW1lOwsiJmFtZXJpY2FuX2Jhcl9hcHBfX2ludm9pY2VzX19u
+      b3J0aHsGOwh7ACIfYW1lcmljYW5fYmFyX2FwcF9faW52b2ljZXN7BzsHewA6
+      GHNlbGVjdGVkX2ludm9pY2VfaWQiBjE=
+
+    - 2010-06-21 00:35:33
+    - 2010-06-21 00:35:47
+  - - "4"
+    - c067022e0e350a06dc41f7487926b4c8
+    - |
+      BAh7DjoQX2NzcmZfdG9rZW4iMVozVXB1Qk9ZdEk0bVhjbCtTOFlEUkdaWlAy
+      R1drWVFNVVZGMlBLOVdxYm89IhVhbWVyaWNhbl9iYXJfYXBwewY6GnN0cm9u
+      Z19zZXNzaW9uX2NvbmZpZ3sAOhpuZXR6a2VfanVzdF9sb2dnZWRfaW5GOhtu
+      ZXR6a2VfanVzdF9sb2dnZWRfb3V0RiInYW1lcmljYW5fYmFyX2FwcF9faW52
+      b2ljZXNfX2NlbnRlcnsHOwZ7ADoQbGFzdF9wYXJhbXN7ADoTbmV0emtlX3dp
+      ZGdldHN7BjoVYW1lcmljYW5fYmFyX2FwcHsHOg9jbGFzc19uYW1lIhNBbWVy
+      aWNhbkJhckFwcDoJbmFtZTsLIiZhbWVyaWNhbl9iYXJfYXBwX19pbnZvaWNl
+      c19fc291dGh7BjsGewAiJmFtZXJpY2FuX2Jhcl9hcHBfX2ludm9pY2VzX19u
+      b3J0aHsGOwl7ACIfYW1lcmljYW5fYmFyX2FwcF9faW52b2ljZXN7BzsGewA6
+      GHNlbGVjdGVkX2ludm9pY2VfaWQiBjE=
+
+    - 2010-06-21 00:37:18
+    - 2010-06-21 00:38:46
+  - - "5"
+    - 2973c1b3a6129e2b6b40cdf090d45056
+    - |
+      BAh7FzobbmV0emtlX2p1c3RfbG9nZ2VkX291dEYiJmFtZXJpY2FuX2Jhcl9h
+      cHBfX2NsaWVudHNfX2NlbnRlcnsHOhpzdHJvbmdfc2Vzc2lvbl9jb25maWd7
+      ADoQbGFzdF9wYXJhbXNDOh5IYXNoV2l0aEluZGlmZmVyZW50QWNjZXNzew0i
+      CGRpciIIQVNDIgthY3Rpb24iMGFtZXJpY2FuX2Jhcl9hcHBfX2NsaWVudHNf
+      X2NlbnRlcl9fZ2V0X2RhdGEiC2ZpbHRlckM7CHsHIgYwQzsIewciCWRhdGFD
+      Owh7ByIKdmFsdWUiDmluc2NyaXB0byIJdHlwZSILc3RyaW5nIgpmaWVsZCIS
+      Y29uZGljaW9uX2l2YSIGMUM7CHsHIglkYXRhQzsIewciCnZhbHVlIgl0cnVl
+      Igl0eXBlIgxib29sZWFuIgpmaWVsZCIQZGVzY3VlbnRvMjAiF2F1dGhlbnRp
+      Y2l0eV90b2tlbiIAIgpzdGFydCIGMCIPY29udHJvbGxlciILbmV0emtlIglz
+      b3J0Ig5kaXJlY2Npb24iCmxpbWl0IgcyMCIwYW1lcmljYW5fYmFyX2FwcF9f
+      Y2xpZW50c19fY2VudGVyX19hZGRfZm9ybXsGOwZ7ADoTbmV0emtlX3dpZGdl
+      dHN7BjoVYW1lcmljYW5fYmFyX2FwcHsHOgluYW1lOwo6D2NsYXNzX25hbWUi
+      E0FtZXJpY2FuQmFyQXBwOhBfY3NyZl90b2tlbiIxcGhZMzVMSHdhUTllcnZ3
+      Y1BSdUprbE5NbWNMamFGaVJ6YTEyQ1VpZ05iaz0iFWFtZXJpY2FuX2Jhcl9h
+      cHB7BjsGewAiHmFtZXJpY2FuX2Jhcl9hcHBfX2NsaWVudHN7BjsGewAiJ2Ft
+      ZXJpY2FuX2Jhcl9hcHBfX2ludm9pY2VzX19jZW50ZXJ7BzsGewA7B0M7CHsK
+      IgthY3Rpb24iMWFtZXJpY2FuX2Jhcl9hcHBfX2ludm9pY2VzX19jZW50ZXJf
+      X2dldF9kYXRhIhdhdXRoZW50aWNpdHlfdG9rZW4iACIKc3RhcnQiBjAiD2Nv
+      bnRyb2xsZXIiC25ldHprZSIKbGltaXQiBzI1Ih9hbWVyaWNhbl9iYXJfYXBw
+      X19wcm9kdWN0c3sGOwd7ACI3YW1lcmljYW5fYmFyX2FwcF9fY2xpZW50c19f
+      Y2VudGVyX19lZGl0X2Zvcm1fX2l0ZW17ACIlYW1lcmljYW5fYmFyX2FwcF9f
+      Y2xpZW50c19fc291dGh7BjsGewAiJmFtZXJpY2FuX2Jhcl9hcHBfX2ludm9p
+      Y2VzX19zb3V0aHsGOwZ7ACIlYW1lcmljYW5fYmFyX2FwcF9fY2xpZW50X3By
+      b2R1Y3R7BzsGewA7B0M7CHsMIghkaXIiCEFTQyILYWN0aW9uIi9hbWVyaWNh
+      bl9iYXJfYXBwX19jbGllbnRfcHJvZHVjdF9fZ2V0X2RhdGEiF2F1dGhlbnRp
+      Y2l0eV90b2tlbiIAIgpzdGFydCIGMCIPY29udHJvbGxlciILbmV0emtlIglz
+      b3J0IhJpbnZvaWNlX19kYXRlIgpsaW1pdCIHMjAiNmFtZXJpY2FuX2Jhcl9h
+      cHBfX2NsaWVudHNfX2NlbnRlcl9fYWRkX2Zvcm1fX2l0ZW17ACIxYW1lcmlj
+      YW5fYmFyX2FwcF9fY2xpZW50c19fY2VudGVyX19lZGl0X2Zvcm17BjsGewAi
+      JmFtZXJpY2FuX2Jhcl9hcHBfX2ludm9pY2VzX19ub3J0aHsHOwZ7ADsHQzsI
+      ewoiC2FjdGlvbiIwYW1lcmljYW5fYmFyX2FwcF9faW52b2ljZXNfX25vcnRo
+      X19nZXRfZGF0YSIXYXV0aGVudGljaXR5X3Rva2VuIgAiCnN0YXJ0IgYwIg9j
+      b250cm9sbGVyIgtuZXR6a2UiCmxpbWl0IgcyNToabmV0emtlX2p1c3RfbG9n
+      Z2VkX2luRiIfYW1lcmljYW5fYmFyX2FwcF9faW52b2ljZXN7BzoYc2VsZWN0
+      ZWRfaW52b2ljZV9pZCIGMzsGewA=
+
+    - 2010-06-21 00:39:35
+    - 2010-06-21 01:20:10
+
+--- 
+users: 
+  columns: 
+  - id
+  - login
+  - role_id
+  - crypted_password
+  - password_salt
+  - persistence_token
+  - single_access_token
+  - perishable_token
+  - login_count
+  - last_request_at
+  - last_login_at
+  - current_login_at
+  - last_login_ip
+  - current_login_ip
+  - created_at
+  - updated_at
+  records: 
+  - - "1"
+    - admin
+    - "1"
+    - ef0dc0b7373211d4875f686707c30b2739422341e04a65817e519e52970ba0bea75b57222fc1897c3503971cc0c6cdb33296eb2f55768560280ef39c2bd9c138
+    - zFUWv3Il_dgVjbbaFdL1
+    - 9efa4c4836e975cd94faa9ca6a0a467f184b658d060890b737180fda4bfc10687c31517b10204c512f7f2cb4a675104a6dc0c57f47a8456191d175e512bc54cb
+    - K8Mwim2y0QeQqD5nqjTn
+    - Sh2WKnKytqhEHuIX_u2-
+    - "0"
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 2010-06-17 20:14:35
+    - 2010-06-17 20:14:35

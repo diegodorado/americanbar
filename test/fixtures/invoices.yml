@@ -1,0 +1,28 @@
+--- 
+invoices_001: 
+  nro: jkjkjhjh
+  created_at: 2010-06-17 21:00:43
+  details: sasad
+  updated_at: 2010-06-17 21:00:43
+  date: "2010-06-16"
+  id: "1"
+  client_id: "1"
+  remito_nro: hhkjhjkkhj
+invoices_002: 
+  nro: "111"
+  created_at: 2010-06-21 00:42:16
+  details: 
+  updated_at: 2010-06-21 00:42:16
+  date: "2010-06-21"
+  id: "2"
+  client_id: "7"
+  remito_nro: "1111"
+invoices_003: 
+  nro: "222"
+  created_at: 2010-06-21 00:43:09
+  details: 
+  updated_at: 2010-06-21 00:43:09
+  date: "2010-06-24"
+  id: "3"
+  client_id: "1"
+  remito_nro: "222"

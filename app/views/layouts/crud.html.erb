@@ -1,0 +1,26 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+  <title>American Bar: <%= controller.controller_name%></title>
+  <%= stylesheet_link_tag 'scaffold' %>
+  <link rel="stylesheet" type="text/css" href="/stylesheets/main.css" />
+  <%= javascript_include_tag :defaults %>
+  <%= active_scaffold_includes %>
+</head>
+<body>
+<div>
+  <a href="/products">Productos</a>
+  <a href="/clients">Clientes</a>
+  <a href="/invoices">Facturas</a>
+  <a href="/consultas">Consultas</a>
+  <a style="float:right;" href="/logout">Salir</a>
+</div>
+<p style="color: green"><%= notice %></p>
+
+<%= yield %>
+
+</body>
+</html>

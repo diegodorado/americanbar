@@ -1,0 +1,35 @@
+@page { 
+  @top-left-corner{display:none}
+  @top-left{display:none}
+  @top-center{display:none}
+  @top-right{display:none}
+  @top-right-corner{display:none}
+
+  @bottom-left-corner{display:none}
+  @bottom-left{display:none}
+  @bottom-center{display:none}
+  @bottom-right{display:none}
+  @bottom-right-corner{display:none}
+    
+}
+
+table{
+  background-image: url(../images/factura.jpg);
+  border-collapse: collapse;
+  table-layout: fixed;
+	font-size:9.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	page-break-after:always;
+}
+table tr td	{
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	color:windowtext;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+}

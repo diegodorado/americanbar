@@ -1,0 +1,158 @@
+/* LOGIN  */
+
+
+#login_wrapper{
+  font:13px/1.231 arial,helvetica,clean,sans-serif;
+}
+
+.login {
+  background:#F1F3F5 none repeat scroll 0 0;
+  border:1px solid #CCCCCC;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:6em;
+  padding:15px;
+  width:429px;
+  font-size: 11px;
+  margin-bottom: 2em;
+}
+.login h1 {
+  background:transparent url(../images/login_error.png) no-repeat scroll left top;
+  color:#333333;
+  font-size:1.5em;
+  height:50px;
+  margin:0;
+  padding:15px 4px 0 55px;
+  text-align:left;
+}
+.login p {
+  padding:0 1em;
+}
+.form-block {
+  background:#E9ECEF none repeat scroll 0 0;
+  border:1px solid #CCCCCC;
+  padding:15px 0 10px 15px;
+}
+.login-form {
+  float:right;
+  text-align:left;
+  width:60%;
+}
+.login-text {
+  float:left;
+  text-align:left;
+  width:40%;
+}
+.inputlabel {
+  font-weight:bold;
+  text-align:left;
+}
+.inputbox {
+  border:1px solid #CCCCCC;
+  margin:0 0 1em;
+  width:150px;
+  padding: 3px;
+}
+
+.inputcheck
+{
+  margin-left: 6px;
+}
+
+.clr {
+  clear:both;
+}
+.ctr {
+  text-align:center;
+  margin-bottom: 20px;
+}
+
+#login_footer
+{
+  text-align: center;
+  font-size: .8em;
+  color: #666;
+}
+
+
+/* END LOGIN  */
+
+
+.description-input{
+  height: 16px;
+}
+
+.observaciones-input{
+  width:640px;
+}
+
+
+.active-scaffold tr td {
+  white-space: nowrap;
+}
+
+.active-scaffold .invoice-products-sub-form{
+  padding-top:10px;
+}
+
+
+.active-scaffold a.add-product-link {
+  background-image:url("../images/active_scaffold/default/add.gif");
+  background-position:1px 50%;
+  background-repeat:no-repeat;
+  margin-bottom:10px;
+  float:left;
+  padding-left:20px;
+  color:#1F7F00;
+  display:block;
+}
+
+.active-scaffold .productos {
+  background-color:#C5DBF7;
+  border-top:3px solid #AFD0F5;
+  border-bottom:8px solid #AFD0F5;
+  margin-top:5px;
+  margin-bottom:10px;
+  padding:10px;
+}
+
+
+.active-scaffold .total_to_s-column {
+  text-align: right;
+}
+
+.active-scaffold .invoice-products-sub-form input.quantity-input{
+  width:50px;
+  text-align:right;
+}
+.active-scaffold .invoice-products-sub-form input.price-input{
+  width:100px;
+  text-align:right;
+}
+.active-scaffold .invoice-products-sub-form input.total-input{
+  width:100px;
+  text-align:right;
+}
+.active-scaffold .invoice-products-sub-form textarea.description-input{
+  width:400px;
+}
+
+.active-scaffold .invoice-products-sub-form table th {
+  text-align:center;
+}
+
+.active-scaffold table.totals tr td{
+  background-color:#C5DBF7;
+  border-bottom:1px solid #AFD0F5;
+  color:#333333;
+  font-weight:bold;
+  padding:3px 10px 3px 284px;
+  width:150px;
+}
+.active-scaffold table.totals tr td.value {
+  background-color:#FFFFFF;
+  padding:3px;
+  text-align:right;
+  font-weight:bold;    
+  width:100px;
+}

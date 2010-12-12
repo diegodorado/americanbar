@@ -1,0 +1,26 @@
+<div id="login_wrapper" align="center">
+  <div class="login">
+    <div class="login-form">
+      <% form_for @user_session, :url => user_session_path do |f| %>
+        <img alt="Login" src="/images/login.gif" />
+        <div class="form-block">
+          <%= f.error_messages %>
+          <div class="inputlabel"><%= f.label :login %></div>
+          <div><%= f.text_field :login, :class => "inputbox" %></div>
+          <div class="inputlabel"><%= f.label :password %></div>
+          <div><%= f.password_field :password, :class => "inputbox" %></div>
+          <div class="inputlabel"><%= f.label :remember_me %><%= f.check_box :remember_me, :class => "inputcheck" %></div>
+          <div align="left"><%= f.submit "Login" %></div>
+        </div>
+      <% end %>
+    </div>
+    <div class="login-text">
+      <div class="ctr"><img alt="Security" src="/images/login_security.png" /></div>
+      <p>Bienvenido a American Bar</p>
+      <p>Utilice un nombre de usuario y contraseña válidos para acceder al panel de administración.</p>
+    </div>
+    <div class="clr"></div>
+  </div>
+  <div id='login_footer'>Copyright &copy; 2010 American Bar. All rights reserved</div>
+</div>
+

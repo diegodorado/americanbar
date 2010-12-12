@@ -1,0 +1,6 @@
+logger.debug params[:column].inspect
+if params[:column] == 'pricing_template'
+  page << 'custom js code'
+else
+  page << render(:super)
+end

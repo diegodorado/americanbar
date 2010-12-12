@@ -1,0 +1,62 @@
+<%
+parent_record = @record
+associated = column.singular_association? ? [parent_record.send(column.name)].compact : parent_record.send(column.name).to_a
+associated = associated.sort_by {|r| r.new_record? ? 99999999999 : r.id} unless column.association.options.has_key?(:order)
+
+if column.show_blank_record? associated
+  associated << column.association.klass.new
+  locked = associated.last
+end
+
+begin
+  remote_controller = active_scaffold_controller_for(column.association.klass)
+rescue ActiveScaffold::ControllerNotFound
+  remote_controller = nil
+end
+show_add_new = column_show_add_new(column, associated, @record)
+return unless show_add_new
+add_new_url = url_for(:action => 'edit_associated', :id => parent_record.id, :association => column.name, :escape => false, :eid => params[:eid], :parent_controller => params[:parent_controller], :parent_id => params[:parent_id]) if show_add_new
+
+-%>
+
+<div class="productos">
+  <% if show_add_new -%>
+    <%= link_to_function 'Agregar Producto', "new Ajax.Request(#{add_new_url.to_json}, {asynchronous: true, method: 'get', evalScripts: true, onFailure: function(){ActiveScaffold.report_500_response(#{active_scaffold_id.to_json})}})", {:class=>'add-product-link'} %>
+  <% end -%>
+  <%= render :partial => subform_partial_for_column(column), :locals => {:column => column, :parent_record => parent_record, :associated => associated, :locked => locked} %>
+</div>
+
+<% @record = parent_record -%>
+<table class="totals" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr>
+      <td>Subtotal</td>
+      <td class="subtotal value"><%= sprintf("%.2f", @record.subtotal) %></td>
+    </tr>    
+    <tr>
+      <td>Descuento 10%</td>
+      <td class="descuento_10 value"><%= sprintf("%.2f", @record.descuento_10) %></td>
+    </tr>    
+    <tr>
+      <td>Subtotal</td>
+      <td class="subtotal1 value"><%= sprintf("%.2f", @record.subtotal1) %></td>
+    </tr>    
+    <tr>
+      <td>Descuento 20%</td>
+      <td class="descuento_20 value"><%= sprintf("%.2f", @record.descuento_20) %></td>
+    </tr>    
+    <tr>
+      <td>Subtotal</td>
+      <td class="subtotal2 value"><%= sprintf("%.2f", @record.subtotal2) %></td>
+    </tr>    
+    <tr>
+      <td>IVA</td>
+      <td class="iva value"><%= sprintf("%.2f", @record.iva) %></td>
+    </tr>    
+    <tr>
+      <td>Total</td>
+      <td class="total value"><%= sprintf("%.2f", @record.total) %></td>
+    </tr>    
+  </tbody>
+</table>
+

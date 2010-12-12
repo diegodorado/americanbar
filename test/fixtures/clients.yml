@@ -1,0 +1,3019 @@
+--- 
+clients_122: 
+  remito_localidad: ""
+  name: "CAFE MUI\xD1O"
+  created_at: 2010-06-17 20:58:58
+  cp: "1407"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: 4635-3429
+  condicion_iva: RESP. INSCRIPTO
+  id: "122"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-52345614-4
+  direccion: AV. EVA PERON 4443
+  email: ""
+clients_067: 
+  remito_localidad: ""
+  name: BRIOZZO GRACIELA MARTA
+  created_at: 2010-06-17 20:58:58
+  cp: ""
+  provincia: ""
+  localidad: ""
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: ""
+  id: "67"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: ""
+  direccion: ""
+  email: ""
+clients_039: 
+  remito_localidad: ""
+  name: CARDIOLAB S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "1055"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "39"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-56164677-1
+  direccion: AV.CORDOBA 1345 P.9 DTO.B
+  email: ""
+clients_095: 
+  remito_localidad: ""
+  name: BAXTER ARGENTINA S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "1636"
+  provincia: ""
+  localidad: " OLIVOS  BS.AS."
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: 4711-4100
+  condicion_iva: RESP. INSCRIPTO
+  id: "95"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-53920359-9
+  direccion: "ENTRE RIOS 1632 "
+  email: ""
+clients_123: 
+  remito_localidad: ""
+  name: MORONI SRL
+  created_at: 2010-06-17 20:58:58
+  cp: "2550"
+  provincia: ""
+  localidad: BELL VILLE   CORDOBA
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: 03534-426475
+  condicion_iva: RESP. INSCRIPTO
+  id: "123"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-70950213-8
+  direccion: GRAL. PAZ 30
+  email: ""
+clients_096: 
+  remito_localidad: ""
+  name: JOSE VIDALES SACIFI
+  created_at: 2010-06-17 20:58:58
+  cp: ""
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: 4941-9888
+  condicion_iva: RESP. INSCRIPTO
+  id: "96"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-50201507-5
+  direccion: ALBERTI 1225/7
+  email: ""
+clients_068: 
+  remito_localidad: ""
+  name: GNC BARILOCHE
+  created_at: 2010-06-17 20:58:58
+  cp: "8400"
+  provincia: ""
+  localidad: RIO NEGRO
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "68"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: "30-68911564-7 "
+  direccion: BESCHTEDT 1620    BARILOCHE
+  email: ""
+clients_124: 
+  remito_localidad: ""
+  name: N B S NUEVO BAZAR SRL
+  created_at: 2010-06-17 20:58:58
+  cp: "1638"
+  provincia: ""
+  localidad: VICENTE LOPEZ  BS.AS.
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: 4837-0022
+  condicion_iva: RESP. INSCRIPTO
+  id: "124"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-70773809-6
+  direccion: AV. DEL LIBERTADOR 1254
+  email: ""
+clients_097: 
+  remito_localidad: ""
+  name: UTHGRA
+  created_at: 2010-06-17 20:58:58
+  cp: "1804"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: 4951-3681
+  condicion_iva: RESP. INSCRIPTO
+  id: "97"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 34-53133865-2
+  direccion: DE MAYO AV. 930
+  email: ""
+clients_010: 
+  remito_localidad: ""
+  name: J.LLORENTE YCIA S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "1213"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "10"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-52980806-9
+  direccion: CATAMARCA 70
+  email: ""
+clients_069: 
+  remito_localidad: ""
+  name: ROQUETA PRAT S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "9000"
+  provincia: ""
+  localidad: CHUBUT
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "69"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-53042866-0
+  direccion: RIVADAVIA 190   COMODORO RIVADAVIA
+  email: ""
+clients_125: 
+  remito_localidad: ""
+  name: LONDERO SERGIO DANIEL
+  created_at: 2010-06-17 20:58:58
+  cp: "5903"
+  provincia: ""
+  localidad: VILLA NUEVA   CORDOBA
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: 03534912-741
+  condicion_iva: RESP. INSCRIPTO
+  id: "125"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 20-20079435-5
+  direccion: "AV. CARRANZA 50  "
+  email: ""
+clients_098: 
+  remito_localidad: ""
+  name: ROMERO DANIEL AMERICO
+  created_at: 2010-06-17 20:58:58
+  cp: "6640"
+  provincia: ""
+  localidad: BRAGADO  BS.AS
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: 02346-15655568
+  condicion_iva: RESP. INSCRIPTO
+  id: "98"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 20-11421786-8
+  direccion: ZAPIOLA 1041
+  email: ""
+clients_011: 
+  remito_localidad: ""
+  name: CAFE GUATEMALA
+  created_at: 2010-06-17 20:58:58
+  cp: "2000"
+  provincia: ""
+  localidad: ROSARIO SUD
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "11"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-56266366-1
+  direccion: E. ZEBALLOS 2810
+  email: ""
+clients_126: 
+  remito_localidad: ""
+  name: BORRONI CLAUDIA FABIANA
+  created_at: 2010-06-17 20:58:58
+  cp: "129"
+  provincia: ""
+  localidad: RIO GALLEGOS  SANTA CRUZ
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "126"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 27-13582763-6
+  direccion: VELEZ SARFIELD 58
+  email: ""
+clients_040: 
+  remito_localidad: ""
+  name: TONELL S.R.L.
+  created_at: 2010-06-17 20:58:58
+  cp: "1748"
+  provincia: ""
+  localidad: G. RODRIGUES
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "40"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-70803342-8
+  direccion: RUTA 24 N 978
+  email: ""
+clients_099: 
+  remito_localidad: ""
+  name: PATAGONIA GAS
+  created_at: 2010-06-17 20:58:58
+  cp: "8300"
+  provincia: ""
+  localidad: NEUQUEN-NEUQUEN
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: 4503-6702
+  condicion_iva: RESP. INSCRIPTO
+  id: "99"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-70853958-5
+  direccion: ALBERDI 250  PISO 11 DTO 2
+  email: ""
+clients_012: 
+  remito_localidad: ""
+  name: MARIA TERESA BAUTISTA
+  created_at: 2010-06-17 20:58:58
+  cp: "1414"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "12"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-71067811-8
+  direccion: DORREGO 1940 4TO DF TB
+  email: ""
+clients_127: 
+  remito_localidad: ""
+  name: LABORATORIO IMVI S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "1428"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "127"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-55584784-6
+  direccion: OLAZABAL 1665
+  email: ""
+clients_041: 
+  remito_localidad: ""
+  name: LOGRIEGO GRACIELA LILIANA
+  created_at: 2010-06-17 20:58:58
+  cp: "7600"
+  provincia: ""
+  localidad: MAR DEL PLATA   BS.AS.
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "41"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 27-13223225-9
+  direccion: SAN MARTIN 3486
+  email: ""
+clients_013: 
+  remito_localidad: ""
+  name: COFFELINE S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "1870"
+  provincia: ""
+  localidad: AVELLANEDA    BS.AS.
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "13"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-69013740-9
+  direccion: ESTANISLAO ZEBALLOS 1051
+  email: ""
+clients_042: 
+  remito_localidad: ""
+  name: CADENA DE HOTELES RH SA
+  created_at: 2010-06-17 20:58:58
+  cp: "9100"
+  provincia: ""
+  localidad: CHUBUT
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "42"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-70705763-3
+  direccion: SAN MARTIN ESQ BELGRANO 101   TRELEW
+  email: ""
+clients_014: 
+  remito_localidad: ""
+  name: ARGENTOIL S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "5700"
+  provincia: ""
+  localidad: SAN LUIS       SAN LUIS
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "14"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-60978835-2
+  direccion: NRO. 4 Y 110 PARQUE INDUSTRIAL
+  email: ""
+clients_070: 
+  remito_localidad: ""
+  name: "FAIVELE S.A "
+  created_at: 2010-06-17 20:58:58
+  cp: "1414"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "70"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-70862322-5
+  direccion: HONDURAS 4742  PISO 7
+  email: ""
+clients_128: 
+  remito_localidad: ""
+  name: SIDECO AMERICANA
+  created_at: 2010-06-17 20:58:58
+  cp: "1001"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: 5276-8638
+  condicion_iva: RESP. INSCRIPTO
+  id: "128"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-51716453-0
+  direccion: AV DEL LIBERTADOR 498 PISO 18
+  email: ""
+clients_043: 
+  remito_localidad: ""
+  name: "CADENA DE HOTELES RH "
+  created_at: 2010-06-17 20:58:58
+  cp: "9120"
+  provincia: ""
+  localidad: CHUBUT
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "43"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-70705763-3
+  direccion: BROWN 2889 PUERTO MADRYN
+  email: ""
+clients_015: 
+  remito_localidad: ""
+  name: SEVRES S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "1437"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "15"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-59751775-7
+  direccion: BARROS PAZOS 3470
+  email: ""
+clients_071: 
+  remito_localidad: ""
+  name: ELECTROSERVICE S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "1007"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "71"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-64239855-1
+  direccion: "ESMERALDA 870 "
+  email: ""
+clients_129: 
+  remito_localidad: ""
+  name: DROGUERIA SAPORITI S.A.C.I.F.I.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "1427"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: 4555-8300
+  condicion_iva: RESP. INSCRIPTO
+  id: "129"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-51559391-4
+  direccion: AV. DEL CAMPO 1449
+  email: ""
+clients_044: 
+  remito_localidad: ""
+  name: PLASTAR SAN JUAN S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "5417"
+  provincia: ""
+  localidad: SAN JUAN
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "44"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-616225502-9
+  direccion: ZAPATA Y RUTA NAC 20   LAS CHACRITAS
+  email: ""
+clients_016: 
+  remito_localidad: ""
+  name: GUILLERMO DIETRICH S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "1414"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "16"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-54184930-7
+  direccion: HONDURAS 4210
+  email: ""
+clients_072: 
+  remito_localidad: ""
+  name: CAFE ROCAMORA
+  created_at: 2010-06-17 20:58:58
+  cp: "1406"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "72"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-70773205-5
+  direccion: BONORINO E. CNEL 1262
+  email: ""
+clients_045: 
+  remito_localidad: ""
+  name: CAFES LA VIRGINIA S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "2000"
+  provincia: ""
+  localidad: SANTA FE
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "45"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-50107713-1
+  direccion: JUAN PABLO SEGUNDO 1340 BIS   ROSARIO
+  email: ""
+clients_100: 
+  remito_localidad: ""
+  name: ECU LOGISTICS S.A
+  created_at: 2010-06-17 20:58:58
+  cp: "1092"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "100"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-71020219-9
+  direccion: AV. BELGRANO 355 PISO 12
+  email: ""
+clients_017: 
+  remito_localidad: ""
+  name: TAMALLANCOS S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "1206"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "17"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 33-64323594-9
+  direccion: DON BOSCO 3462
+  email: ""
+clients_073: 
+  remito_localidad: ""
+  name: TUDESCO
+  created_at: 2010-06-17 20:58:58
+  cp: ""
+  provincia: ""
+  localidad: CHUBUT
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "73"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 20-13624629-2
+  direccion: SAN MARTIN 565   COMODORO RIVADAVIA
+  email: ""
+clients_046: 
+  remito_localidad: ""
+  name: SIEGWERK ARGENTINA S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "1667"
+  provincia: ""
+  localidad: BUENOS AIRES
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "46"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-67655867-1
+  direccion: "DESCARTES 3595   TORTUGUITAS "
+  email: ""
+clients_101: 
+  remito_localidad: ""
+  name: DISTRIBUIDORA CUYANA
+  created_at: 2010-06-17 20:58:58
+  cp: "5500"
+  provincia: ""
+  localidad: MENDOZA
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: 0261-4380703
+  condicion_iva: RESP. INSCRIPTO
+  id: "101"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-54325757-1
+  direccion: CHACABUCO 228
+  email: ""
+clients_074: 
+  remito_localidad: ""
+  name: BAHICAFE S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "8000"
+  provincia: ""
+  localidad: BUENOS AIRES
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "74"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-70869393-2
+  direccion: HIPOLITO IRIGOYEN 238   BAHIA BLANCA
+  email: ""
+clients_130: 
+  remito_localidad: ""
+  name: ARRANZ ELENA
+  created_at: 2010-06-17 20:58:58
+  cp: "1049"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: 4312-8024
+  condicion_iva: RESP. INSCRIPTO
+  id: "130"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 27-00167513-9
+  direccion: TUCUMAN 317
+  email: ""
+clients_102: 
+  remito_localidad: ""
+  name: COFFE LEADER S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "1651"
+  provincia: ""
+  localidad: SAN ANDRES    BS.AS
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: 4767-6080
+  condicion_iva: RESP. INSCRIPTO
+  id: "102"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-71106090-8
+  direccion: ROSARIO 3273
+  email: ""
+clients_018: 
+  remito_localidad: ""
+  name: COFFICE S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "2056"
+  provincia: ""
+  localidad: BOULOGNE       BS. AS.
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "18"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-69661499-3
+  direccion: "CON. REAL MORON          "
+  email: ""
+clients_075: 
+  remito_localidad: ""
+  name: LABORATORIOS SZAMA
+  created_at: 2010-06-17 20:58:58
+  cp: "1406"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "75"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 33-50547609-9
+  direccion: LAFUENTE AV. 161
+  email: ""
+clients_047: 
+  remito_localidad: ""
+  name: NIKAE SRL
+  created_at: 2010-06-17 20:58:58
+  cp: "1048"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "47"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-70875940-2
+  direccion: LAVALLE 1625  1RO
+  email: ""
+clients_131: 
+  remito_localidad: ""
+  name: JUMBO RETEI
+  created_at: 2010-06-17 20:58:58
+  cp: ""
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: 5586-17600
+  condicion_iva: RESP. INSCRIPTO
+  id: "131"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-60676296-4
+  direccion: TUCUMAN 3720
+  email: ""
+clients_103: 
+  remito_localidad: MENDOZA
+  name: DRINK EXPRESS
+  created_at: 2010-06-17 20:58:58
+  cp: "5500"
+  provincia: ""
+  localidad: MENDOZA
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: 0261-4526635
+  condicion_iva: RESP. INSCRIPTO
+  id: "103"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: WASHINGTONG 125  DORREGO GUAYMALLEN
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-69961162-6
+  direccion: MITRE 1869
+  email: ""
+clients_019: 
+  remito_localidad: ""
+  name: "FERRARO HERNAN JOSUE "
+  created_at: 2010-06-17 20:58:58
+  cp: "1424"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "19"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 20-20202460-3
+  direccion: MORENO JOSE MARIA 318
+  email: ""
+clients_076: 
+  remito_localidad: ""
+  name: DEMARCO NATALIA LORENA
+  created_at: 2010-06-17 20:58:58
+  cp: "5000"
+  provincia: ""
+  localidad: CORDOBA
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: 0351-4514100
+  condicion_iva: RESP. INSCRIPTO
+  id: "76"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 27-28425895-4
+  direccion: CATAMARCA 1008 PISO PB.  GRAL PAZ NORTE
+  email: ""
+clients_048: 
+  remito_localidad: ""
+  name: LOS 5 HISPANOS S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: ""
+  provincia: ""
+  localidad: BUENOS AIRES
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "48"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-55541422-2
+  direccion: TRIUNVIRATO 1250 RAMOS MEJIA
+  email: ""
+clients_132: 
+  remito_localidad: ""
+  name: BECKER JOSE LUIS
+  created_at: 2010-06-17 20:58:58
+  cp: "2700"
+  provincia: ""
+  localidad: PERGAMINO   BS.AS
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: 02477-412692
+  condicion_iva: RESP. INSCRIPTO
+  id: "132"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 20-10540771-9
+  direccion: SAN NICOLAS 763
+  email: ""
+clients_077: 
+  remito_localidad: ""
+  name: NOVEL HOTEL S.R.L
+  created_at: 2010-06-17 20:58:58
+  cp: "1084"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: "43450504"
+  condicion_iva: RESP. INSCRIPTO
+  id: "77"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-53623319-5
+  direccion: "AV DE MAYO 915 "
+  email: ""
+clients_049: 
+  remito_localidad: ""
+  name: HOTELES DEL SUR S.R.L
+  created_at: 2010-06-17 20:58:58
+  cp: "9400"
+  provincia: ""
+  localidad: SANTA CRUZ
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "49"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-63790263-2
+  direccion: SAN MARTIN 673    RIO GALLEGOS
+  email: ""
+clients_104: 
+  remito_localidad: ""
+  name: "CARIBE\xD1O S.A."
+  created_at: 2010-06-17 20:58:58
+  cp: "1416"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: BUONCAFF
+  condicion_iva: RESP. INSCRIPTO
+  id: "104"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-61407747-2
+  direccion: "NICASIO ORO\xD1O 2433"
+  email: ""
+clients_133: 
+  remito_localidad: ""
+  name: CARAVANA SRL
+  created_at: 2010-06-17 20:58:58
+  cp: "1152"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: 4304-7440
+  condicion_iva: RESP. INSCRIPTO
+  id: "133"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-52590878-6
+  direccion: AV. CASEROS 1965
+  email: ""
+clients_078: 
+  remito_localidad: ""
+  name: COMP. CAFETERA DEL SUR S.R.L
+  created_at: 2010-06-17 20:58:58
+  cp: "8300"
+  provincia: ""
+  localidad: NEUQUEN
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: 0299-4413282
+  condicion_iva: RESP. INSCRIPTO
+  id: "78"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-59472021-7
+  direccion: P. INDUS. RUTA 7 KM. 4.5
+  email: ""
+clients_105: 
+  remito_localidad: ROSARIO   SANTA FE
+  name: S Y L EQUIPAMIENTOS S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "2600"
+  provincia: ""
+  localidad: VENADO TUERTO   SANTA FE
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: 0346-15467406
+  condicion_iva: RESP. INSCRIPTO
+  id: "105"
+  remito_cp: "0"
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: H DE LA QUINTANA  3390
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-71097908-8
+  direccion: MAIPU 1441
+  email: ""
+clients_134: 
+  remito_localidad: ""
+  name: GRAN CAFETAL S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "5500"
+  provincia: ""
+  localidad: MENDOZA MENDOZA
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: |-
+    0261-155-699046 
+     ERNESTO VARGAS
+  condicion_iva: RESP. INSCRIPTO
+  id: "134"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-70910501-5
+  direccion: SAN MARTIN 1483
+  email: ""
+clients_020: 
+  remito_localidad: ""
+  name: CABRALES S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "7600"
+  provincia: ""
+  localidad: MAR DEL PLATA   BS.AS.
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "20"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-53774574-2
+  direccion: RIVADAVIA 3173
+  email: ""
+clients_079: 
+  remito_localidad: ""
+  name: JUFALA S.R.L
+  created_at: 2010-06-17 20:58:58
+  cp: "4000"
+  provincia: ""
+  localidad: SAN MIGUEL DE TUCUMAN
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "79"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-70919275-9
+  direccion: "SAN MARTIN 629  LOCAL 41  "
+  email: ""
+clients_135: 
+  remito_localidad: CONCORDIA ENTRE RIOS
+  name: BALACE SRL HOTEL AYUI
+  created_at: 2010-06-17 20:58:58
+  cp: "3200"
+  provincia: ""
+  localidad: CONCORDIA  ENTRE RIOS
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "135"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: LAGO SALTO GRANDE
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-68880585-2
+  direccion: SAN LUIS 854
+  email: ""
+clients_021: 
+  remito_localidad: ""
+  name: EMBOTELLADORA MIDA S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "1427"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "21"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-70906544-7
+  direccion: 14 DE JULIO 574
+  email: ""
+clients_106: 
+  remito_localidad: ""
+  name: BELGRANO  JUNIORS  S. A.
+  created_at: 2010-06-17 20:58:58
+  cp: "1428"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: 4786-1585
+  condicion_iva: RESP. INSCRIPTO
+  id: "106"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-67670338-8
+  direccion: LA PAMPA  1117
+  email: ""
+clients_136: 
+  remito_localidad: ""
+  name: MIRA CINE SRL
+  created_at: 2010-06-17 20:58:58
+  cp: "1233"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: "1541752646"
+  condicion_iva: RESP. INSCRIPTO
+  id: "136"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-71078885-1
+  direccion: SAN JUAN 3242
+  email: ""
+clients_022: 
+  remito_localidad: ""
+  name: DISTRIBAZ S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "1416"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "22"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-70835611-1
+  direccion: REPETTO NICOLAS 1320
+  email: ""
+clients_107: 
+  remito_localidad: ""
+  name: DIEGO GARCIA
+  created_at: 2010-06-17 20:58:58
+  cp: "5194"
+  provincia: ""
+  localidad: VILLA  GRAL. BELGRANO
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "107"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: ""
+  direccion: VICENTE PALLOTTI 36
+  email: ""
+clients_050: 
+  remito_localidad: ""
+  name: BACTSA SA
+  created_at: 2010-06-17 20:58:58
+  cp: "1104"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "50"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-67816723-8
+  direccion: EDISON T Y CALLE 8
+  email: ""
+clients_137: 
+  remito_localidad: 
+  name: 
+  created_at: 2010-06-21 01:17:31
+  cp: 
+  provincia: 
+  localidad: 
+  updated_at: 2010-06-21 01:17:31
+  nombre_fantasia: 
+  observaciones: 
+  condicion_iva: 
+  id: "137"
+  remito_cp: 
+  remito_provincia: 
+  descuento20: 
+  tel_fax: 
+  remito_direccion: 
+  descuento10: 
+  condicion_venta: 
+  cuit: 
+  direccion: 
+  email: 
+clients_023: 
+  remito_localidad: ""
+  name: SYSTEMA FILTER S.H.
+  created_at: 2010-06-17 20:58:58
+  cp: ""
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "23"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-69768459-6
+  direccion: SANTO DOMINGO 2486
+  email: ""
+clients_108: 
+  remito_localidad: ""
+  name: ASTESIANO S.S.
+  created_at: 2010-06-17 20:58:58
+  cp: ""
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: 4864-5128
+  condicion_iva: RESP. INSCRIPTO
+  id: "108"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 33-52809421-9
+  direccion: DIAZ VELEZ 3663
+  email: ""
+clients_051: 
+  remito_localidad: ""
+  name: FUTUREBRAND S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "1425"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "51"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-70711742-3
+  direccion: DEMARIA 4659
+  email: ""
+clients_024: 
+  remito_localidad: ""
+  name: VALOT S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: ""
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "24"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-60380823-8
+  direccion: AV. BELGRANO 1250
+  email: ""
+clients_080: 
+  remito_localidad: ""
+  name: VEGA Y CAMJI S.A.I.C
+  created_at: 2010-06-17 20:58:58
+  cp: "1427"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: "45524223"
+  condicion_iva: RESP. INSCRIPTO
+  id: "80"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-50345302-5
+  direccion: 14 DE JULIO 344
+  email: ""
+clients_109: 
+  remito_localidad: CORDOBA
+  name: LLORSTIN S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "1015"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: 351-4212031/38
+  condicion_iva: RESP. INSCRIPTO
+  id: "109"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ENTRE RIOS 70
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 33-70850224-9
+  direccion: URUGUAY 694  PISO 1
+  email: ""
+clients_052: 
+  remito_localidad: ""
+  name: ROYAL VENDING S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "1640"
+  provincia: ""
+  localidad: BUENOS AIRES
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "52"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 33-66319414-9
+  direccion: RIO DE JANEIRO 2150   MARTINEZ
+  email: ""
+clients_025: 
+  remito_localidad: ""
+  name: INTERCAFE S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "1209"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "25"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-6917035-2
+  direccion: ARANGUREN 1528
+  email: ""
+clients_081: 
+  remito_localidad: ""
+  name: ULTRA PRESS S.A.I.C.
+  created_at: 2010-06-17 20:58:58
+  cp: "1607"
+  provincia: ""
+  localidad: BUENOS AIRES
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "81"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-55515841-2
+  direccion: PARANA 5843   VILLA ADELINA
+  email: ""
+clients_053: 
+  remito_localidad: ""
+  name: XP SERVICE
+  created_at: 2010-06-17 20:58:58
+  cp: ""
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "53"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-68749369-5
+  direccion: ALICIA MOREAU DE JUSTO 1848
+  email: ""
+clients_082: 
+  remito_localidad: ""
+  name: "S K F ARGENTINA S A "
+  created_at: 2010-06-17 20:58:58
+  cp: "1068"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "82"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-52547959-1
+  direccion: PERU 545
+  email: ""
+clients_054: 
+  remito_localidad: ""
+  name: BRIOZZO GRACIELA MARTA
+  created_at: 2010-06-17 20:58:58
+  cp: "2000"
+  provincia: ""
+  localidad: SANTA FE
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "54"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 27-13448151-5
+  direccion: 25 DE MAYO 7194  ROSARIO SUD
+  email: ""
+clients_026: 
+  remito_localidad: ""
+  name: ROTH JULIO ALBERTO
+  created_at: 2010-06-17 20:58:58
+  cp: "1043"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "26"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 20-04436330-6
+  direccion: CORRIENTES 1386
+  email: ""
+clients_083: 
+  remito_localidad: ""
+  name: MONTERO JOSE LUIS
+  created_at: 2010-06-17 20:58:58
+  cp: ""
+  provincia: ""
+  localidad: "SALTA            "
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: 0387-4390610
+  condicion_iva: RESP. INSCRIPTO
+  id: "83"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 20-23584825-3
+  direccion: ZUVIRIA 2856     SALTA
+  email: ""
+clients_055: 
+  remito_localidad: ""
+  name: FORTALEZA S.R.L
+  created_at: 2010-06-17 20:58:58
+  cp: "5501"
+  provincia: ""
+  localidad: MENDOZA
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "55"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-70970821-6
+  direccion: "FIGUEROA ALCORTA 850     GODOY CRUZ "
+  email: ""
+clients_110: 
+  remito_localidad: ""
+  name: ASOCIACION MUTUAL SANCOR
+  created_at: 2010-06-17 20:58:58
+  cp: "2322"
+  provincia: ""
+  localidad: " SUNCHALES  SANTA FE "
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: 4812-3500
+  condicion_iva: RESP. INSCRIPTO
+  id: "110"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-59035479-8
+  direccion: AV. INDEPENDENCIA  206  PISO 1
+  email: ""
+clients_027: 
+  remito_localidad: ""
+  name: VIEIRA ARGENTINA S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "1038"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "27"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-65047701-0
+  direccion: PERON 949 PISO 7
+  email: ""
+clients_084: 
+  remito_localidad: ""
+  name: BANCO DE LA PAMPA S.E.M
+  created_at: 2010-06-17 20:58:58
+  cp: "6300"
+  provincia: ""
+  localidad: LA PAMPA
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: 02954-451146
+  condicion_iva: RESP. INSCRIPTO
+  id: "84"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-50001251-6
+  direccion: PELLEGRINI 255   SANTA ROSA
+  email: ""
+clients_056: 
+  remito_localidad: ""
+  name: SERVICIOS COMPASS DE ARG. S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "1752"
+  provincia: ""
+  localidad: LOMAS DEL MIRADOR   BS.AS
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "56"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-68250597-0
+  direccion: ALICIA MOREAU DE JUSTO 3368
+  email: ""
+clients_111: 
+  remito_localidad: ""
+  name: T 4 F ENTRETENIMIENTOS ARGENTINA S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "1414"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: 5530-8223
+  condicion_iva: RESP. INSCRIPTO
+  id: "111"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-69481022-1
+  direccion: CABRERA JOSE A 6061 PISO 6
+  email: ""
+clients_028: 
+  remito_localidad: ""
+  name: ESTABLECIMIENTO SAN CEFERINO S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "6708"
+  provincia: ""
+  localidad: LUJAN       BS.AS.
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "28"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 33-65188101-9
+  direccion: RUTA 6 KM 169,5
+  email: ""
+clients_085: 
+  remito_localidad: ""
+  name: CAFE OYAMBRE SRL
+  created_at: 2010-06-17 20:58:58
+  cp: "1704"
+  provincia: ""
+  localidad: BUENOS AIRES
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "85"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-57889900-2
+  direccion: AV. RIVADAVIA 12986/88    RAMOS MEJIA
+  email: ""
+clients_057: 
+  remito_localidad: ""
+  name: CENTRALAB S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "1414"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "57"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-67733941-8
+  direccion: VEGA NICETO CNEL 5651
+  email: ""
+clients_112: 
+  remito_localidad: ""
+  name: INSTALACIONES COMERCIALES SRL
+  created_at: 2010-06-17 20:58:58
+  cp: "8300"
+  provincia: ""
+  localidad: NEUQUEN - NEUQUEN
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "112"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-70812365-6
+  direccion: "GATICA 312  "
+  email: ""
+clients_086: 
+  remito_localidad: ""
+  name: NEW ROM SANITARIOS S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "7600"
+  provincia: ""
+  localidad: BUENOS AIRES
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "86"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-71013364-2
+  direccion: AV. CONSTITUCION 6325   MAR DEL PLATA
+  email: ""
+clients_058: 
+  remito_localidad: ""
+  name: SEGAFREDO ZANETTI ARGENTINA S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "1427"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "58"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-70707733-2
+  direccion: TRIUNVIRATO AV.  2716
+  email: ""
+clients_113: 
+  remito_localidad: ""
+  name: JORGE A HALLADJIAN
+  created_at: 2010-06-17 20:58:58
+  cp: ""
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: 4773-6250
+  condicion_iva: RESP. INSCRIPTO
+  id: "113"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 20-04311699-2
+  direccion: COCHABAMBA 2721
+  email: ""
+clients_029: 
+  remito_localidad: ""
+  name: DIGDANIAN JUAN JOSE
+  created_at: 2010-06-17 20:58:58
+  cp: "4400"
+  provincia: ""
+  localidad: SALTA            SALTA
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "29"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 20-13172130-8
+  direccion: AV. SAN MARTIN 1322
+  email: ""
+clients_087: 
+  remito_localidad: ""
+  name: "MENDEZ HORACIO "
+  created_at: 2010-06-17 20:58:58
+  cp: "1414"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: |-
+    156-3958467 JOSE 
+     HERNAN 156395-8468
+  condicion_iva: RESP. INSCRIPTO
+  id: "87"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 20-04258969-2
+  direccion: RAMIREZ DE VELAZCO J 979
+  email: ""
+clients_059: 
+  remito_localidad: ""
+  name: GRUPO GIGA S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "2000"
+  provincia: ""
+  localidad: SANTA FE
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "59"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-70148136-0
+  direccion: MAGALLANES 1774   ROSARIO
+  email: ""
+clients_114: 
+  remito_localidad: ""
+  name: DIFFUPAR S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "1427"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: 4552-3065
+  condicion_iva: RESP. INSCRIPTO
+  id: "114"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-61655696-3
+  direccion: ESTOMBA 580
+  email: ""
+clients_115: 
+  remito_localidad: ""
+  name: CAFE BERTONE
+  created_at: 2010-06-17 20:58:58
+  cp: "1824"
+  provincia: ""
+  localidad: LANUS  BS.AS.
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: 4249-6729
+  condicion_iva: RESP. INSCRIPTO
+  id: "115"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-70957782-0
+  direccion: GRAL GUIDO 288
+  email: ""
+clients_088: 
+  remito_localidad: ""
+  name: INTERNATIONAL HOME S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "1416"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: 4582-0777
+  condicion_iva: RESP. INSCRIPTO
+  id: "88"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-70208894-8
+  direccion: GAVILAN 1750
+  email: ""
+clients_001: 
+  remito_localidad: ""
+  name: ROBERTO DARDES
+  created_at: 2010-06-17 20:58:58
+  cp: ""
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "1"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 20-07642663-6
+  direccion: BARTOLOME MITRE 441
+  email: ""
+clients_116: 
+  remito_localidad: ""
+  name: EAFF S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: ""
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: 4372-1300
+  condicion_iva: RESP. INSCRIPTO
+  id: "116"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-65789182-3
+  direccion: VIAMONTE 1145  3RO A
+  email: ""
+clients_002: 
+  remito_localidad: ""
+  name: EMPORIO GASTRONOMICO ARG. S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "1248"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "2"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-54682021-8
+  direccion: PAVON 2562/69
+  email: ""
+clients_030: 
+  remito_localidad: ""
+  name: COTO C.I.C.S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "1416"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "30"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-54808315-6
+  direccion: PAISANDU 1842
+  email: ""
+clients_089: 
+  remito_localidad: ""
+  name: ODITEC S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "1636"
+  provincia: ""
+  localidad: OLIVOS  BUENOS AIRES
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "89"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-59422583-6
+  direccion: CAP. JUSTO G BERMUDEZ 3566
+  email: ""
+clients_003: 
+  remito_localidad: ""
+  name: JENCK S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "1426"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "3"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-63288438-5
+  direccion: AV. ALVAREZ THOMAS 228
+  email: ""
+clients_031: 
+  remito_localidad: ""
+  name: AZUL HOTEL S.R.L.
+  created_at: 2010-06-17 20:58:58
+  cp: "3064"
+  provincia: ""
+  localidad: BANDERA -SANT. DEL ESTERO
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "31"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-71123108-7
+  direccion: 25 DE MAYO S/N A 20 MTRS. ACCESO SAAVEDRA
+  email: ""
+clients_117: 
+  remito_localidad: ""
+  name: LIM-PIA S.R.L
+  created_at: 2010-06-17 20:58:58
+  cp: ""
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: 4541-3391
+  condicion_iva: RESP. INSCRIPTO
+  id: "117"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-68515773-6
+  direccion: DEHEZA 4797
+  email: ""
+clients_004: 
+  remito_localidad: ""
+  name: BONAFIDE S.A.I.C.
+  created_at: 2010-06-17 20:58:58
+  cp: "1650"
+  provincia: ""
+  localidad: SAN MARTIN
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "4"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-50121458-9
+  direccion: RUTA 8 KM 17800
+  email: ""
+clients_060: 
+  remito_localidad: ""
+  name: CODIPA S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "1374"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "60"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-52182776-5
+  direccion: SAN MARTIN 627 PISO 5
+  email: ""
+clients_032: 
+  remito_localidad: ""
+  name: PRODUCTOS ALIMENTICIOS FM S.R.L
+  created_at: 2010-06-17 20:58:58
+  cp: "5147"
+  provincia: ""
+  localidad: B. LOS BULEVARES CORDOBA
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "32"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-70735663-0
+  direccion: BV. CRISTOBAL BERITELLA 7160
+  email: ""
+clients_118: 
+  remito_localidad: ""
+  name: "TUR LYFE S.A. "
+  created_at: 2010-06-17 20:58:58
+  cp: "1045"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: CLIENTE CABRALES
+  condicion_iva: RESP. INSCRIPTO
+  id: "118"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-65815067-3
+  direccion: CORRIENTES AV. 1982
+  email: ""
+clients_061: 
+  remito_localidad: ""
+  name: HOTELES MEDITERRANEO
+  created_at: 2010-06-17 20:58:58
+  cp: "1112"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "61"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-70884880-4
+  direccion: POSADAS 1557
+  email: ""
+clients_033: 
+  remito_localidad: ""
+  name: PERNAMBUCO S.R.L.
+  created_at: 2010-06-17 20:58:58
+  cp: "1603"
+  provincia: ""
+  localidad: VILLA MARTELLI   BS.AS.
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "33"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-59897453-1
+  direccion: FLORENTINO AMEGHINO 589
+  email: ""
+clients_005: 
+  remito_localidad: ""
+  name: LAVIERI HNOS.
+  created_at: 2010-06-17 20:58:58
+  cp: "1007"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "5"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-62329594-3
+  direccion: VIAMONTE 354
+  email: ""
+clients_119: 
+  remito_localidad: ""
+  name: GARCIA ALCIRA BEATRIZ
+  created_at: 2010-06-17 20:58:58
+  cp: "1073"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: 4372-7781
+  condicion_iva: RESP. INSCRIPTO
+  id: "119"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 27-04482055-8
+  direccion: LIMA 573
+  email: ""
+clients_062: 
+  remito_localidad: ""
+  name: "URBAN STATION "
+  created_at: 2010-06-17 20:58:58
+  cp: "1414"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "62"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-71113442-1
+  direccion: EL SALVADOR 4588
+  email: ""
+clients_034: 
+  remito_localidad: ""
+  name: APART MARIA BONITA
+  created_at: 2010-06-17 20:58:58
+  cp: ""
+  provincia: ""
+  localidad: VILLA GESELL  BS.AS.
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: ""
+  id: "34"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: ""
+  direccion: "PASEO 106 N\xBA 365"
+  email: ""
+clients_006: 
+  remito_localidad: ""
+  name: TOSTADERO PARANA S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "1752"
+  provincia: ""
+  localidad: VILLA INSUPERABLE   BS.AS
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "6"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-69079966-5
+  direccion: VERTI 4590
+  email: ""
+clients_090: 
+  remito_localidad: ""
+  name: CAMARA EMPRESARIA DE VICENTE LOPEZ
+  created_at: 2010-06-17 20:58:58
+  cp: "1602"
+  provincia: ""
+  localidad: FLORIDA   BUENOS AIRES
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: 4139-5555
+  condicion_iva: RESP. INSCRIPTO
+  id: "90"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-52711488-4
+  direccion: AVDA MAIPU 1536
+  email: ""
+clients_063: 
+  remito_localidad: ""
+  name: EQUIPOS DEL CHEF S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "1674"
+  provincia: ""
+  localidad: BUENOS AIRES
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "63"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-70824679-0
+  direccion: "GRAL E MOSCONI  3153   SAENZ PE\xD1A"
+  email: ""
+clients_035: 
+  remito_localidad: ""
+  name: BIOMERIEUX ARGENTINA S A
+  created_at: 2010-06-17 20:58:58
+  cp: "1428"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "35"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-60437643-2
+  direccion: AV. CONGRESO 1745
+  email: ""
+clients_091: 
+  remito_localidad: ""
+  name: BENASSATI HUMBERTO
+  created_at: 2010-06-17 20:58:58
+  cp: "8000"
+  provincia: ""
+  localidad: BAHIA BLANCA   BS.AS
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "91"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-61629817-4
+  direccion: SOLER 347
+  email: ""
+clients_064: 
+  remito_localidad: ""
+  name: PRO UNIVERSAL S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "5500"
+  provincia: ""
+  localidad: MENDOZA
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "64"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: "33-71087880-9 "
+  direccion: MONTECASEROS 2735   MENDOZA
+  email: ""
+clients_036: 
+  remito_localidad: ""
+  name: "QUI\xD1ONES MIGUEL"
+  created_at: 2010-06-17 20:58:58
+  cp: ""
+  provincia: ""
+  localidad: TANDIL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "36"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 20-14626398-5
+  direccion: MARCONI 1621
+  email: ""
+clients_007: 
+  remito_localidad: ""
+  name: PUNTO ESPRESSO S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "1437"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "7"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-67609147-1
+  direccion: TROLE 282
+  email: ""
+clients_092: 
+  remito_localidad: ""
+  name: GEMATIC SRL
+  created_at: 2010-06-17 20:58:58
+  cp: "1605"
+  provincia: ""
+  localidad: MUNRO    BUENOS AIRES
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "92"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-69123502-1
+  direccion: ALMAFUERTE 4277
+  email: ""
+clients_120: 
+  remito_localidad: ""
+  name: COFFEA SRL
+  created_at: 2010-06-17 20:58:58
+  cp: "2000"
+  provincia: ""
+  localidad: ROSARIO  SANTA FE
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: 0341-4480111
+  condicion_iva: RESP. INSCRIPTO
+  id: "120"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-63275599-2
+  direccion: SANTA FE 1598
+  email: ""
+clients_065: 
+  remito_localidad: ""
+  name: PRODUCCIONES G M A  S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "1426"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "65"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-70299780-8
+  direccion: FREIRE R. CAP  G 932
+  email: ""
+clients_037: 
+  remito_localidad: ""
+  name: RUGGIERI ALBERTO
+  created_at: 2010-06-17 20:58:58
+  cp: "2900"
+  provincia: ""
+  localidad: BUENOS AIRES
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "37"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 20-04674483-8
+  direccion: AV. SAVIO 279   SAN NICOLAS
+  email: ""
+clients_008: 
+  remito_localidad: ""
+  name: BUONCAFF S.R.L
+  created_at: 2010-06-17 20:58:58
+  cp: "1416"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-21 00:28:08
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "8"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-59433624-7
+  direccion: "NICASIO ORO\xC3\x91O"
+  email: ""
+clients_093: 
+  remito_localidad: ""
+  name: COHORT PATRICIO
+  created_at: 2010-06-17 20:58:58
+  cp: "8400"
+  provincia: ""
+  localidad: BARILOCHE  RIO NEGRO
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "93"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 23-22500653-9
+  direccion: MARTIN FIERRO 1521
+  email: ""
+clients_121: 
+  remito_localidad: ""
+  name: OLD CAFE SRL
+  created_at: 2010-06-17 20:58:58
+  cp: "1900"
+  provincia: ""
+  localidad: LA PLATA NOROESTE  BS-AS
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "121"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-62266257-0
+  direccion: "7 N\xBA835"
+  email: ""
+clients_066: 
+  remito_localidad: ""
+  name: CLOSS DELIA ADRIANA
+  created_at: 2010-06-17 20:58:58
+  cp: "3300"
+  provincia: ""
+  localidad: MISIONES
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "66"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: "27-13471583-4 "
+  direccion: CORDOBA 2115   POSADAS
+  email: ""
+clients_038: 
+  remito_localidad: ""
+  name: TELLEX S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "1251"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "38"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-63040207-3
+  direccion: RINCON 1346
+  email: ""
+clients_009: 
+  remito_localidad: ""
+  name: LA BOLSA DE CAFE S.A.
+  created_at: 2010-06-17 20:58:58
+  cp: "1406"
+  provincia: ""
+  localidad: CAPITAL
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: ""
+  condicion_iva: RESP. INSCRIPTO
+  id: "9"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "1"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-500068326-7
+  direccion: RIVADAVIA 6050
+  email: ""
+clients_094: 
+  remito_localidad: ""
+  name: QUIPLAST SAICIF
+  created_at: 2010-06-17 20:58:58
+  cp: "1650"
+  provincia: ""
+  localidad: SAN MARTIN  BS.AS
+  updated_at: 2010-06-17 20:58:58
+  nombre_fantasia: ""
+  observaciones: 4752-6122
+  condicion_iva: RESP. INSCRIPTO
+  id: "94"
+  remito_cp: ""
+  remito_provincia: ""
+  descuento20: "0"
+  tel_fax: ""
+  remito_direccion: ""
+  descuento10: "0"
+  condicion_venta: ""
+  cuit: 30-50470383-1
+  direccion: 29 MERCEDES 2976
+  email: ""
