@@ -2,7 +2,7 @@ class InvoiceProduct < ActiveRecord::Base
   belongs_to :invoice
   belongs_to :product
 
-  validates_presence_of :invoice_id
+#  validates_presence_of :invoice_id
   validates_presence_of :product_id
   validates_numericality_of :quantity
   validates_numericality_of :price

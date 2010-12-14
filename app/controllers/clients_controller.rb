@@ -4,7 +4,6 @@ class ClientsController < ApplicationController
     
     config.list.columns = [:name, :nombre_fantasia, :cuit,   :direccion, :cp,:localidad,:provincia, :email, :tel_fax]
     config.show.link = false
-#    config.nested.add_link("Facturas", [:invoices])
  
     list.sorting = {:name => 'ASC'}
 

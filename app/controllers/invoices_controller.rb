@@ -33,16 +33,20 @@ class InvoicesController < ApplicationController
     @client = @invoice.client
 
     @factura_header = @client.name + "\n"
-    @factura_header << @client.direccion + "\n" unless @client.direccion.nil?
-    @factura_header << @client.cp + " " unless @client.cp.nil?
-    @factura_header << @client.localidad + " " unless @client.localidad.nil?
-    @factura_header << @client.provincia + " " unless @client.provincia.nil?
+    @factura_header << @client.direccion + "\n" unless @client.direccion.blank?
+    @factura_header << @client.cp + " " unless @client.cp.blank?
+    @factura_header << @client.localidad + " " unless @client.localidad.blank?
+    @factura_header << @client.provincia + " " unless @client.provincia.blank?
+ 
+    if @client.remito_direccion.blank?
+      @remito_header = @factura_header
+    else
+      @remito_header = @client.name + "\n" + @client.remito_direccion + "\n"
+      @remito_header << @client.remito_cp + " " unless @client.remito_cp.blank?
+      @remito_header << @client.remito_localidad + " " unless @client.remito_localidad.blank?
+      @remito_header << @client.remito_provincia + " " unless @client.remito_provincia.blank?
+    end
     
-    @remito_header = @client.name + "\n"
-    @remito_header << @client.remito_direccion + "\n" unless @client.direccion.nil?
-    @remito_header << @client.remito_cp + " " unless @client.remito_cp.nil?
-    @remito_header << @client.remito_localidad + " " unless @client.remito_localidad.nil?
-    @remito_header << @client.remito_provincia + " " unless @client.remito_provincia.nil?
     
     @products = @invoice.invoice_products.map do |ip|
       [

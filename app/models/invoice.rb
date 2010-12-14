@@ -2,8 +2,8 @@ ActiveSupport::CoreExtensions::Date::Conversions::DATE_FORMATS[:default]='%m/%d/
 
 class Invoice < ActiveRecord::Base
   belongs_to :client
-  has_many :invoice_products
-  has_many :products, :through => :invoice_products
+  has_many :invoice_products, :dependent => :destroy
+#  has_many :products, :through => :invoice_products
 
   validates_presence_of :date
   validates_presence_of :client_id

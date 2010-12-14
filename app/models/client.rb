@@ -9,4 +9,16 @@ class Client < ActiveRecord::Base
     self.invoices.count > 0
   end
 
+
+#  before_create :direccion_remito
+
+  private
+    def direccion_remito
+      self.remito_direccion = self.direccion unless self.remito_direccion
+      self.remito_cp = self.cp unless self.remito_cp
+      self.remito_localidad = self.localidad unless self.remito_localidad
+      self.remito_provincia = self.provincia unless self.remito_provincia
+    end
+
+
 end
