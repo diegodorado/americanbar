@@ -1,9 +1,11 @@
 # SQLite version 3.x
 development:
-  adapter: mysql
+  adapter: mysql2
+  encoding: utf8
   database: americanbar
   username: root
   password: qwerpoiu
+
 
 test:
   adapter: sqlite3

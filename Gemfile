@@ -1,10 +1,11 @@
 source :gemcutter
-gem "rails", "~> 2.3.5"
+gem "rails", "2.3.14"
 gem "sqlite3-ruby", :require => "sqlite3"
-gem "mysql"
+gem "mysql2"
+gem "activerecord-mysql2-adapter"
 
 gem "authlogic"
-gem "prawn"
+gem "prawn", "0.8.4"
 gem "calendar_date_select"
 
 

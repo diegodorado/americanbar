@@ -50,7 +50,7 @@ module ActiveScaffold
 
       # Provides stylesheets to include with +stylesheet_link_tag+
       def active_scaffold_javascripts(frontend = :default)
-        super + [calendar_date_select_javascripts :locale => I18n.locale ]
+        super + [calendar_date_select_javascripts( :locale => I18n.locale) ]
       end
     end
 
