@@ -1,17 +1,12 @@
 # SQLite version 3.x
 development:
-  adapter: mysql2
-  encoding: utf8
-  database: americanbar
-  username: root
-  password: qwerpoiu
-
-
-test:
   adapter: sqlite3
   database: db/development.sqlite3
   pool: 5
   timeout: 5000
+
+
+test:
 
 
 production:

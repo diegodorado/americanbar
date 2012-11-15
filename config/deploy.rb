@@ -18,3 +18,14 @@ set :use_sudo, false
 
 set :keep_releases,  2
 
+namespace :deploy do
+  task :start do ; end
+  task :stop do ; end
+  task :restart, :roles => :app, :except => { :no_release => true } do
+    run "touch #{File.join(current_path,'tmp','restart.txt')}"
+  end
+  task :list do
+    run "ls -la"
+  end
+end
+

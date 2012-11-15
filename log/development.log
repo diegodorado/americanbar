@@ -4241,3 +4241,432 @@ Rendered _update_form (1350.3ms)
 Rendered _messages (3.5ms)
 Rendered _list_inline_adapter (136.7ms)
 Completed in 1993ms (View: 169, DB: 0) | 200 OK [http://localhost/invoices/4/edit?_method=get&adapter=_list_inline_adapter]
+ActiveScaffold: extending RESTful routes for products
+ActiveScaffold: extending RESTful routes for clients
+ActiveScaffold: extending RESTful routes for invoices
+ActiveScaffold: extending RESTful routes for invoice_products
+DEPRECATION WARNING: Giving :session_key to SessionStore is deprecated, please use :key instead. (called from new at /home/diego/.rvm/gems/ruby-1.9.3-p194@rails2.3.14/gems/actionpack-2.3.14/lib/action_controller/middleware_stack.rb:72)
+
+
+Processing InvoicesController#index (for 127.0.0.1 at 2012-11-14 22:51:02) [GET]
+  Parameters: {"controller"=>"invoices", "action"=>"index"}
+  [4;36;1mUser Load (1.1ms)[0m   [0;1mSELECT * FROM `users` WHERE (`users`.`id` = '1') LIMIT 1[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mBEGIN[0m
+  [4;36;1mUser Update (14.3ms)[0m   [0;1mUPDATE `users` SET `last_request_at` = '2012-11-15 01:51:02', `perishable_token` = 'KlIDlucomLBFR2jduuz', `updated_at` = '2012-11-15 01:51:02' WHERE `id` = 1[0m
+  [4;35;1mSQL (51.0ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (62.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM `invoices` [0m
+  [4;35;1mInvoice Load (68.7ms)[0m   [0mSELECT `invoices`.* FROM `invoices` ORDER BY `invoices`.`nro` ASC LIMIT 0, 15[0m
+  [4;36;1mClient Load (8.2ms)[0m   [0;1mSELECT * FROM `clients` WHERE (`clients`.`id` IN (240,199,17,58,20,337,41,23,15,272,305,357,54,173)) [0m
+Rendering template within layouts/crud
+Rendering list
+Rendered _list_header (20.8ms)
+Rendered _list_column_headings (103.6ms)
+Rendered _messages (3.1ms)
+Rendered _list_messages (38.5ms)
+Rendered _list_record_columns (27.8ms)
+  [4;35;1mSQL (6.3ms)[0m   [0mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 515) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 515) [0m
+Rendered _list_actions (64.0ms)
+Rendered _list_record (265.9ms)
+Rendered _list_record_columns (43.7ms)
+  [4;35;1mSQL (6.4ms)[0m   [0mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 771) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 771) [0m
+Rendered _list_actions (15.8ms)
+Rendered _list_record (61.5ms)
+Rendered _list_record_columns (18.3ms)
+  [4;35;1mSQL (4.6ms)[0m   [0mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 1539) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 1539) [0m
+Rendered _list_actions (14.5ms)
+Rendered _list_record (34.0ms)
+Rendered _list_record_columns (16.7ms)
+  [4;35;1mSQL (5.4ms)[0m   [0mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 775) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 775) [0m
+Rendered _list_actions (19.3ms)
+Rendered _list_record (37.9ms)
+Rendered _list_record_columns (19.5ms)
+  [4;35;1mSQL (4.7ms)[0m   [0mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 264) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 264) [0m
+Rendered _list_actions (18.9ms)
+Rendered _list_record (40.3ms)
+Rendered _list_record_columns (14.5ms)
+  [4;35;1mSQL (6.4ms)[0m   [0mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 1288) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 1288) [0m
+Rendered _list_actions (16.5ms)
+Rendered _list_record (32.2ms)
+Rendered _list_record_columns (15.9ms)
+  [4;35;1mSQL (7.4ms)[0m   [0mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 1800) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 1800) [0m
+Rendered _list_actions (21.5ms)
+Rendered _list_record (38.9ms)
+Rendered _list_record_columns (16.0ms)
+  [4;35;1mSQL (5.3ms)[0m   [0mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 777) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 777) [0m
+Rendered _list_actions (14.6ms)
+Rendered _list_record (32.3ms)
+Rendered _list_record_columns (16.5ms)
+  [4;35;1mSQL (4.8ms)[0m   [0mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 522) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 522) [0m
+Rendered _list_actions (15.6ms)
+Rendered _list_record (33.5ms)
+Rendered _list_record_columns (20.6ms)
+  [4;35;1mSQL (5.1ms)[0m   [0mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 779) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 779) [0m
+Rendered _list_actions (16.1ms)
+Rendered _list_record (38.3ms)
+Rendered _list_record_columns (17.3ms)
+  [4;35;1mSQL (4.6ms)[0m   [0mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 1035) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 1035) [0m
+Rendered _list_actions (15.4ms)
+Rendered _list_record (34.1ms)
+Rendered _list_record_columns (16.6ms)
+  [4;35;1mSQL (4.8ms)[0m   [0mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 1804) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 1804) [0m
+Rendered _list_actions (18.3ms)
+Rendered _list_record (36.8ms)
+Rendered _list_record_columns (21.3ms)
+  [4;35;1mSQL (6.2ms)[0m   [0mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 1549) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 1549) [0m
+Rendered _list_actions (16.1ms)
+Rendered _list_record (39.6ms)
+Rendered _list_record_columns (16.0ms)
+  [4;35;1mSQL (5.3ms)[0m   [0mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 527) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 527) [0m
+Rendered _list_actions (15.2ms)
+Rendered _list_record (32.7ms)
+Rendered _list_record_columns (18.5ms)
+  [4;35;1mSQL (5.7ms)[0m   [0mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 784) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 784) [0m
+Rendered _list_actions (19.5ms)
+Rendered _list_record (39.3ms)
+Rendered _list_pagination_links (22.7ms)
+Rendered _list_pagination (70.6ms)
+Rendered _list (1145.1ms)
+Completed in 1822ms (View: 1272, DB: 290) | 200 OK [http://localhost/]
+DEPRECATION WARNING: Giving :session_key to SessionStore is deprecated, please use :key instead. (called from new at /home/diego/.rvm/gems/ruby-1.9.3-p194@rails2.3.14/gems/actionpack-2.3.14/lib/action_controller/middleware_stack.rb:72)
+  [4;35;1mClient Load (375.1ms)[0m   [0mSELECT * FROM `clients` ORDER BY name[0m
+
+
+Processing ConsultasController#index (for 127.0.0.1 at 2012-11-14 22:51:19) [GET]
+  Parameters: {"controller"=>"consultas", "action"=>"index"}
+  [4;36;1mUser Load (0.9ms)[0m   [0;1mSELECT * FROM `users` WHERE (`users`.`id` = '1') LIMIT 1[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mBEGIN[0m
+  [4;36;1mUser Update (0.8ms)[0m   [0;1mUPDATE `users` SET `last_request_at` = '2012-11-15 01:51:20', `perishable_token` = 'qsxO9eI2imSCLzFNLy', `updated_at` = '2012-11-15 01:51:20' WHERE `id` = 1[0m
+  [4;35;1mSQL (73.6ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (3.7ms)[0m   [0;1mSELECT count(*) AS count_all FROM `invoice_products` [0m
+  [4;35;1mInvoiceProduct Load (1.1ms)[0m   [0mSELECT `invoice_products`.* FROM `invoice_products` ORDER BY `invoice_products`.`id` ASC LIMIT 0, 15[0m
+  [4;36;1mProduct Load (1.0ms)[0m   [0;1mSELECT * FROM `products` WHERE (`products`.`id` IN (76,5,12,7,21,39,62,61,86)) [0m
+Rendering template within layouts/crud
+Rendering list
+Rendered _list_header (11.9ms)
+Rendered _list_column_headings (36.2ms)
+Rendered _messages (3.0ms)
+Rendered _list_messages (37.4ms)
+  [4;35;1mInvoice Load (7.3ms)[0m   [0mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 2) [0m
+  [4;36;1mClient Load (1.0ms)[0m   [0;1mSELECT * FROM `clients` WHERE (`clients`.`id` = 53) [0m
+Rendered _list_record_columns (126.8ms)
+Rendered _list_record (161.7ms)
+  [4;35;1mInvoice Load (0.9ms)[0m   [0mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 3) [0m
+  [4;36;1mClient Load (0.8ms)[0m   [0;1mSELECT * FROM `clients` WHERE (`clients`.`id` = 145) [0m
+Rendered _list_record_columns (22.5ms)
+Rendered _list_record (23.8ms)
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 3) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM `clients` WHERE (`clients`.`id` = 145) [0m
+Rendered _list_record_columns (18.7ms)
+Rendered _list_record (19.7ms)
+  [4;35;1mInvoice Load (1.0ms)[0m   [0mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 4) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 4) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 4) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 4) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 4) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 4) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 4) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 4) [0m
+Rendered _list_record_columns (41.4ms)
+Rendered _list_record (42.5ms)
+  [4;35;1mInvoice Load (0.8ms)[0m   [0mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 5) [0m
+  [4;36;1mClient Load (0.9ms)[0m   [0;1mSELECT * FROM `clients` WHERE (`clients`.`id` = 58) [0m
+Rendered _list_record_columns (17.8ms)
+Rendered _list_record (19.1ms)
+  [4;35;1mInvoice Load (0.8ms)[0m   [0mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 6) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 6) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 6) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 6) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 6) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 6) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 6) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 6) [0m
+Rendered _list_record_columns (40.2ms)
+Rendered _list_record (41.4ms)
+  [4;35;1mInvoice Load (1.1ms)[0m   [0mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 7) [0m
+  [4;36;1mClient Load (0.9ms)[0m   [0;1mSELECT * FROM `clients` WHERE (`clients`.`id` = 178) [0m
+Rendered _list_record_columns (21.1ms)
+Rendered _list_record (22.5ms)
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 7) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM `clients` WHERE (`clients`.`id` = 178) [0m
+Rendered _list_record_columns (14.9ms)
+Rendered _list_record (16.2ms)
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 6) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 6) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 6) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 6) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 6) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 6) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 6) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 6) [0m
+Rendered _list_record_columns (34.3ms)
+Rendered _list_record (35.4ms)
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 6) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 6) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 6) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 6) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 6) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 6) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 6) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 6) [0m
+Rendered _list_record_columns (44.1ms)
+Rendered _list_record (44.9ms)
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 7) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM `clients` WHERE (`clients`.`id` = 178) [0m
+Rendered _list_record_columns (14.7ms)
+Rendered _list_record (15.6ms)
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 7) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM `clients` WHERE (`clients`.`id` = 178) [0m
+Rendered _list_record_columns (16.4ms)
+Rendered _list_record (17.5ms)
+  [4;35;1mInvoice Load (0.8ms)[0m   [0mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 8) [0m
+  [4;36;1mClient Load (0.9ms)[0m   [0;1mSELECT * FROM `clients` WHERE (`clients`.`id` = 179) [0m
+Rendered _list_record_columns (18.7ms)
+Rendered _list_record (19.5ms)
+  [4;35;1mInvoice Load (0.8ms)[0m   [0mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 9) [0m
+  [4;36;1mClient Load (1.1ms)[0m   [0;1mSELECT * FROM `clients` WHERE (`clients`.`id` = 180) [0m
+Rendered _list_record_columns (21.5ms)
+Rendered _list_record (22.8ms)
+  [4;35;1mInvoice Load (0.9ms)[0m   [0mSELECT * FROM `invoices` WHERE (`invoices`.`id` = 10) [0m
+  [4;36;1mClient Load (1.1ms)[0m   [0;1mSELECT * FROM `clients` WHERE (`clients`.`id` = 17) [0m
+Rendered _list_record_columns (22.7ms)
+Rendered _list_record (23.8ms)
+  [4;35;1mSQL (66.2ms)[0m   [0mSELECT sum(`invoice_products`.quantity) AS sum_quantity FROM `invoice_products` [0m
+  [4;36;1mSQL (12.3ms)[0m   [0;1mSELECT avg(`invoice_products`.price) AS avg_price FROM `invoice_products` [0m
+  [4;35;1mSQL (4.8ms)[0m   [0mSELECT sum(`invoice_products`.total) AS sum_total FROM `invoice_products` [0m
+Rendered _list_calculations (109.6ms)
+Rendered _list_pagination_links (17.1ms)
+Rendered _list_pagination (51.3ms)
+Rendered _list (998.9ms)
+Completed in 1453ms (View: 1027, DB: 562) | 200 OK [http://localhost/consultas]
+DEPRECATION WARNING: Giving :session_key to SessionStore is deprecated, please use :key instead. (called from new at /home/diego/.rvm/gems/ruby-1.9.3-p194@rails2.3.14/gems/actionpack-2.3.14/lib/action_controller/middleware_stack.rb:72)
+  [4;36;1mClient Load (1.2ms)[0m   [0;1mSELECT * FROM `clients` ORDER BY name[0m
+
+
+Processing ConsultasController#show_search (for 127.0.0.1 at 2012-11-14 22:51:24) [GET]
+  Parameters: {"_method"=>"get", "adapter"=>"_list_inline_adapter", "controller"=>"consultas", "action"=>"show_search"}
+  [4;35;1mUser Load (0.8ms)[0m   [0mSELECT * FROM `users` WHERE (`users`.`id` = '1') LIMIT 1[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Update (0.8ms)[0m   [0mUPDATE `users` SET `last_request_at` = '2012-11-15 01:51:24', `perishable_token` = 'FaB8Twhq4dL3RerVmSR', `updated_at` = '2012-11-15 01:51:24' WHERE `id` = 1[0m
+  [4;36;1mSQL (36.7ms)[0m   [0;1mCOMMIT[0m
+  [4;35;1mProduct Load (2.5ms)[0m   [0mSELECT * FROM `products` [0m
+Rendered _field_search (227.1ms)
+Rendered _messages (2.8ms)
+Rendered _list_inline_adapter (32.3ms)
+Completed in 538ms (View: 54, DB: 0) | 200 OK [http://localhost/consultas/show_search?_method=get&adapter=_list_inline_adapter]
+DEPRECATION WARNING: Giving :session_key to SessionStore is deprecated, please use :key instead. (called from new at /home/diego/.rvm/gems/ruby-1.9.3-p194@rails2.3.14/gems/actionpack-2.3.14/lib/action_controller/middleware_stack.rb:72)
+  [4;36;1mClient Load (1.1ms)[0m   [0;1mSELECT * FROM `clients` ORDER BY name[0m
+
+
+Processing ConsultasController#index (for 127.0.0.1 at 2012-11-14 22:51:35) [GET]
+  Parameters: {"search"=>{"invoice_date"=>{"from"=>"", "to"=>""}, "invoice_client"=>"54", "product"=>""}, "commit"=>"Buscar", "controller"=>"consultas", "action"=>"index"}
+  [4;35;1mUser Load (0.9ms)[0m   [0mSELECT * FROM `users` WHERE (`users`.`id` = '1') LIMIT 1[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Update (1.0ms)[0m   [0mUPDATE `users` SET `last_request_at` = '2012-11-15 01:51:35', `perishable_token` = 'uQ6siFYkfZjpbxqXYj4E', `updated_at` = '2012-11-15 01:51:35' WHERE `id` = 1[0m
+  [4;36;1mSQL (130.8ms)[0m   [0;1mCOMMIT[0m
+2012-11-14 22:51:35 -0300#<NoMethodError: undefined method `type' for nil:NilClass> -- on the ActiveScaffold column :invoice_date, search_ui = calendar_date_select in NilClass
+
+NoMethodError (undefined method `type' for nil:NilClass):
+  <internal:prelude>:10:in `synchronize'
+  /home/diego/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /home/diego/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /home/diego/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+Rendered rescues/_trace (71.1ms)
+Rendered rescues/_request_and_response (25.7ms)
+Rendering rescues/layout (internal_server_error)
+DEPRECATION WARNING: Giving :session_key to SessionStore is deprecated, please use :key instead. (called from new at /home/diego/.rvm/gems/ruby-1.9.3-p194@rails2.3.14/gems/actionpack-2.3.14/lib/action_controller/middleware_stack.rb:72)
+  [4;35;1mClient Load (1.1ms)[0m   [0mSELECT * FROM `clients` ORDER BY name[0m
+
+
+Processing ConsultasController#index (for 127.0.0.1 at 2012-11-14 22:52:14) [GET]
+  Parameters: {"search"=>{"invoice_date"=>{"from"=>"10/11/2011", "to"=>"29/11/2013"}, "invoice_client"=>"54", "product"=>""}, "commit"=>"Buscar", "controller"=>"consultas", "action"=>"index"}
+  [4;36;1mUser Load (1.1ms)[0m   [0;1mSELECT * FROM `users` WHERE (`users`.`id` = '1') LIMIT 1[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mBEGIN[0m
+  [4;36;1mUser Update (0.9ms)[0m   [0;1mUPDATE `users` SET `last_request_at` = '2012-11-15 01:52:14', `perishable_token` = 'GkcYgiGPqzpFsgNVrJop', `updated_at` = '2012-11-15 01:52:14' WHERE `id` = 1[0m
+  [4;35;1mSQL (53.4ms)[0m   [0mCOMMIT[0m
+2012-11-14 22:52:15 -0300#<NoMethodError: undefined method `type' for nil:NilClass> -- on the ActiveScaffold column :invoice_date, search_ui = calendar_date_select in NilClass
+
+NoMethodError (undefined method `type' for nil:NilClass):
+  <internal:prelude>:10:in `synchronize'
+  /home/diego/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /home/diego/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /home/diego/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+Rendered rescues/_trace (74.8ms)
+Rendered rescues/_request_and_response (1.6ms)
+Rendering rescues/layout (internal_server_error)
+ActiveScaffold: extending RESTful routes for products
+ActiveScaffold: extending RESTful routes for clients
+ActiveScaffold: extending RESTful routes for invoices
+ActiveScaffold: extending RESTful routes for invoice_products
+  [4;36;1mUser Load (0.8ms)[0m   [0;1mSELECT * FROM `users` [0m
+  [4;35;1mUser Load (1.4ms)[0m   [0mSELECT * FROM `users` LIMIT 1[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Load (19.8ms)[0m   [0mSELECT `users`.id FROM `users` WHERE (`users`.`persistence_token` = BINARY '669745110c19429920931c633bcc07708c06fba2b9068a0d7eb2361e521eaf221ef6c18087ad3746e8752155278fa208eaa59c5f69e7863be426ca3467d01d2f' AND `users`.id <> 1) LIMIT 1[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mBEGIN[0m
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT `users`.id FROM `users` WHERE (`users`.`persistence_token` = BINARY '669745110c19429920931c633bcc07708c06fba2b9068a0d7eb2361e521eaf221ef6c18087ad3746e8752155278fa208eaa59c5f69e7863be426ca3467d01d2f' AND `users`.id <> 1) LIMIT 1[0m
+  [4;35;1mSQL (0.6ms)[0m   [0mROLLBACK[0m
+  [4;36;1mUser Load (1.2ms)[0m   [0;1mSELECT `users`.id FROM `users` WHERE (`users`.`persistence_token` = BINARY '669745110c19429920931c633bcc07708c06fba2b9068a0d7eb2361e521eaf221ef6c18087ad3746e8752155278fa208eaa59c5f69e7863be426ca3467d01d2f' AND `users`.id <> 1) LIMIT 1[0m
+  [4;35;1mUser Load (0.6ms)[0m   [0mSELECT * FROM `users` LIMIT 1[0m
+  [4;36;1mUser Load (1.2ms)[0m   [0;1mSELECT `users`.id FROM `users` WHERE (`users`.`persistence_token` = BINARY 'cd53ff7c2d98ddebb355d35be658e61fa4c33cb9ff6ad79875482fa642439c6c5e45927ab555862678f54c68b352d9f0253e0aa3c508aa55705d8841606ec5e9' AND `users`.id <> 1) LIMIT 1[0m
+  [4;35;1mUser Load (0.5ms)[0m   [0mSELECT `users`.id FROM `users` WHERE (`users`.`persistence_token` = BINARY 'cd53ff7c2d98ddebb355d35be658e61fa4c33cb9ff6ad79875482fa642439c6c5e45927ab555862678f54c68b352d9f0253e0aa3c508aa55705d8841606ec5e9' AND `users`.id <> 1) LIMIT 1[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Load (1.3ms)[0m   [0mSELECT `users`.id FROM `users` WHERE (`users`.`persistence_token` = BINARY 'cd53ff7c2d98ddebb355d35be658e61fa4c33cb9ff6ad79875482fa642439c6c5e45927ab555862678f54c68b352d9f0253e0aa3c508aa55705d8841606ec5e9' AND `users`.id <> 1) LIMIT 1[0m
+  [4;36;1mUser Update (20.8ms)[0m   [0;1mUPDATE `users` SET `password_salt` = 'gg6ehKd8R0npJGVNDDCG', `crypted_password` = '8616512448db2591e2f49883ff79dc1168a7d0e9d451f0bc281248678174ab2d4d7eb90a62242292d4c61ede19ae181268ac27f2046ac199ead94996e13dd250', `persistence_token` = 'cd53ff7c2d98ddebb355d35be658e61fa4c33cb9ff6ad79875482fa642439c6c5e45927ab555862678f54c68b352d9f0253e0aa3c508aa55705d8841606ec5e9', `perishable_token` = 'YVQLMdZd1svl8hGwf3A', `updated_at` = '2012-11-15 02:24:36' WHERE `id` = 1[0m
+  [4;35;1mSQL (155.3ms)[0m   [0mCOMMIT[0m
+ActiveScaffold: extending RESTful routes for products
+ActiveScaffold: extending RESTful routes for clients
+ActiveScaffold: extending RESTful routes for invoices
+ActiveScaffold: extending RESTful routes for invoice_products
+DEPRECATION WARNING: Giving :session_key to SessionStore is deprecated, please use :key instead. (called from new at /home/diego/.rvm/gems/ruby-1.9.3-p194@rails2.3.14/gems/actionpack-2.3.14/lib/action_controller/middleware_stack.rb:72)
+
+
+Processing InvoicesController#index (for 127.0.0.1 at 2012-11-14 23:28:01) [GET]
+  Parameters: {"controller"=>"invoices", "action"=>"index"}
+  [4;36;1mUser Load (0.9ms)[0m   [0;1mSELECT * FROM `users` WHERE (`users`.`id` = '1') LIMIT 1[0m
+  [4;35;1mUser Load (0.9ms)[0m   [0mSELECT * FROM `users` WHERE (`users`.`id` = 1) LIMIT 1[0m
+Redirected to http://localhost:3000/login
+Filter chain halted as [:require_user] rendered_or_redirected.
+Completed in 117ms (DB: 17) | 302 Found [http://localhost/]
+DEPRECATION WARNING: Giving :session_key to SessionStore is deprecated, please use :key instead. (called from new at /home/diego/.rvm/gems/ruby-1.9.3-p194@rails2.3.14/gems/actionpack-2.3.14/lib/action_controller/middleware_stack.rb:72)
+
+
+Processing UserSessionsController#new (for 127.0.0.1 at 2012-11-14 23:28:02) [GET]
+  Parameters: {"controller"=>"user_sessions", "action"=>"new"}
+Rendering template within layouts/login
+Rendering user_sessions/new
+Completed in 476ms (View: 97, DB: 0) | 200 OK [http://localhost/login]
+DEPRECATION WARNING: Giving :session_key to SessionStore is deprecated, please use :key instead. (called from new at /home/diego/.rvm/gems/ruby-1.9.3-p194@rails2.3.14/gems/actionpack-2.3.14/lib/action_controller/middleware_stack.rb:72)
+
+
+Processing UserSessionsController#create (for 127.0.0.1 at 2012-11-14 23:28:07) [POST]
+  Parameters: {"authenticity_token"=>"6rfmuVcH8ALykGhfGXckUe4EMdZC76xn2x8oGL7sIPk=", "user_session"=>{"login"=>"admin", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Login", "controller"=>"user_sessions", "action"=>"create"}
+  [4;36;1mUser Load (30.3ms)[0m   [0;1mSELECT * FROM `users` WHERE (LOWER(`users`.login) = 'admin') LIMIT 1[0m
+Rendering template within layouts/login
+Rendering user_sessions/new
+Completed in 440ms (View: 19, DB: 31) | 200 OK [http://localhost/user_session]
+DEPRECATION WARNING: Giving :session_key to SessionStore is deprecated, please use :key instead. (called from new at /home/diego/.rvm/gems/ruby-1.9.3-p194@rails2.3.14/gems/actionpack-2.3.14/lib/action_controller/middleware_stack.rb:72)
+
+
+Processing UserSessionsController#create (for 127.0.0.1 at 2012-11-14 23:28:12) [POST]
+  Parameters: {"authenticity_token"=>"6rfmuVcH8ALykGhfGXckUe4EMdZC76xn2x8oGL7sIPk=", "user_session"=>{"login"=>"admin", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Login", "controller"=>"user_sessions", "action"=>"create"}
+  [4;35;1mUser Load (0.4ms)[0m   [0mSELECT * FROM `users` WHERE (LOWER(`users`.login) = 'admin') LIMIT 1[0m
+DEPRECATION WARNING: The :http_only option in ActionController::Response#set_cookie has been renamed. Please use :httponly instead. (called from []= at /home/diego/.rvm/gems/ruby-1.9.3-p194@rails2.3.14/gems/actionpack-2.3.14/lib/action_controller/cookies.rb:84)
+  [4;36;1mSQL (0.3ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Update (21.1ms)[0m   [0mUPDATE `users` SET `login_count` = 778, `last_login_at` = '2012-09-25 17:02:56', `current_login_at` = '2012-11-15 02:28:12', `current_login_ip` = '127.0.0.1', `last_request_at` = '2012-11-15 02:28:12', `perishable_token` = 'CLp7gVhccdBK1d7SX2w', `updated_at` = '2012-11-15 02:28:12' WHERE `id` = 1[0m
+  [4;36;1mSQL (152.9ms)[0m   [0;1mCOMMIT[0m
+Redirected to http://localhost:3000/
+Completed in 616ms (DB: 175) | 302 Found [http://localhost/user_session]
+DEPRECATION WARNING: Giving :session_key to SessionStore is deprecated, please use :key instead. (called from new at /home/diego/.rvm/gems/ruby-1.9.3-p194@rails2.3.14/gems/actionpack-2.3.14/lib/action_controller/middleware_stack.rb:72)
+
+
+Processing InvoicesController#index (for 127.0.0.1 at 2012-11-14 23:28:13) [GET]
+  Parameters: {"controller"=>"invoices", "action"=>"index"}
+  [4;35;1mUser Load (0.9ms)[0m   [0mSELECT * FROM `users` WHERE (`users`.`id` = '1') LIMIT 1[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Update (0.8ms)[0m   [0mUPDATE `users` SET `last_request_at` = '2012-11-15 02:28:13', `perishable_token` = 'cPf9P5N8xN8loo9IG5X', `updated_at` = '2012-11-15 02:28:13' WHERE `id` = 1[0m
+  [4;36;1mSQL (47.3ms)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSELECT count(*) AS count_all FROM `invoices` [0m
+  [4;36;1mInvoice Load (0.4ms)[0m   [0;1mSELECT `invoices`.* FROM `invoices` ORDER BY `invoices`.`nro` ASC LIMIT 0, 15[0m
+  [4;35;1mClient Load (0.4ms)[0m   [0mSELECT * FROM `clients` WHERE (`clients`.`id` IN (240,199,17,58,20,337,41,23,15,272,305,357,54,173)) [0m
+Rendering template within layouts/crud
+Rendering list
+Rendered _list_header (16.4ms)
+Rendered _list_column_headings (38.9ms)
+Rendered _messages (3.3ms)
+Rendered _list_messages (42.4ms)
+Rendered _list_record_columns (25.9ms)
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 515) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 515) [0m
+Rendered _list_actions (56.8ms)
+Rendered _list_record (145.7ms)
+Rendered _list_record_columns (31.6ms)
+  [4;36;1mSQL (0.5ms)[0m   [0;1mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 771) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 771) [0m
+Rendered _list_actions (12.2ms)
+Rendered _list_record (46.0ms)
+Rendered _list_record_columns (14.6ms)
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 1539) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 1539) [0m
+Rendered _list_actions (17.9ms)
+Rendered _list_record (34.3ms)
+Rendered _list_record_columns (18.6ms)
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 775) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 775) [0m
+Rendered _list_actions (9.8ms)
+Rendered _list_record (30.0ms)
+Rendered _list_record_columns (16.8ms)
+  [4;36;1mSQL (0.5ms)[0m   [0;1mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 264) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 264) [0m
+Rendered _list_actions (9.7ms)
+Rendered _list_record (27.8ms)
+Rendered _list_record_columns (16.2ms)
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 1288) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 1288) [0m
+Rendered _list_actions (11.5ms)
+Rendered _list_record (29.0ms)
+Rendered _list_record_columns (18.6ms)
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 1800) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 1800) [0m
+Rendered _list_actions (11.1ms)
+Rendered _list_record (31.3ms)
+Rendered _list_record_columns (16.7ms)
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 777) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 777) [0m
+Rendered _list_actions (9.1ms)
+Rendered _list_record (27.2ms)
+Rendered _list_record_columns (16.2ms)
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 522) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 522) [0m
+Rendered _list_actions (9.1ms)
+Rendered _list_record (26.6ms)
+Rendered _list_record_columns (16.9ms)
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 779) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 779) [0m
+Rendered _list_actions (13.2ms)
+Rendered _list_record (31.6ms)
+Rendered _list_record_columns (14.9ms)
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 1035) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 1035) [0m
+Rendered _list_actions (12.5ms)
+Rendered _list_record (28.8ms)
+Rendered _list_record_columns (14.0ms)
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 1804) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 1804) [0m
+Rendered _list_actions (11.5ms)
+Rendered _list_record (26.9ms)
+Rendered _list_record_columns (14.0ms)
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 1549) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 1549) [0m
+Rendered _list_actions (12.7ms)
+Rendered _list_record (28.6ms)
+Rendered _list_record_columns (19.5ms)
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 527) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 527) [0m
+Rendered _list_actions (12.6ms)
+Rendered _list_record (33.7ms)
+Rendered _list_record_columns (19.5ms)
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 784) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT count(*) AS count_all FROM `invoice_products` WHERE (`invoice_products`.invoice_id = 784) [0m
+Rendered _list_actions (13.9ms)
+Rendered _list_record (34.9ms)
+Rendered _list_pagination_links (32.6ms)
+Rendered _list_pagination (70.6ms)
+Rendered _list (950.4ms)
+Completed in 1440ms (View: 1167, DB: 57) | 200 OK [http://localhost/]
