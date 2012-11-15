@@ -1,9 +1,3 @@
-
-# At the top of environment.rb, set your default encodings:
-Encoding.default_external = Encoding.default_internal = Encoding::UTF_8
-
-# Be sure to restart your server when you modify this file
-
 # Specifies gem version of Rails to use when vendor/rails is not present
 #RAILS_GEM_VERSION = '2.3.5' unless defined? RAILS_GEM_VERSION
 
